@@ -3,17 +3,21 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget: myhero # See https://wowchemy.com/docs/page-builder/
+widget: markdown # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: Orion Lab Research Group
-hero_media: welcome.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
   css_style:
   css_class:
+  background:
+    # Choose a color such as from https://html-color-codes.info
+    color: 'navy'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
+  # Choose how many columns the section has. Valid values: 1 or 2.
 ---
 
 In Orion Lab we like to play with big Earth Observation data and use artificial intelligence research to have a positive impact on the society and the environment.
