@@ -8,10 +8,6 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: |-
-        Feel free to contact us for any questions regarding our science.
-
-		We have open places for internships, Master theses, doctoral and postdoctoral research, please don’t hesitate to write us an email to introduce yourself!
       email: ipapoutsis@noa.gr
       address:
         street: School of Rural, Surveying and Geoinformatics Engineering, National Technical University of Athens
@@ -67,3 +63,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 ---
+
+Feel free to contact us for any questions regarding our science. 
+
+We have open places for internships, Master theses, doctoral and postdoctoral research, please don’t hesitate to write us an email to introduce yourself!
