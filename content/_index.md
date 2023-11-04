@@ -8,14 +8,16 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Orion Lab
+        Artificial Intelligence for Earth Observation
       image:
-        filename: welcome.jpg
+        filename: logo.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        In Orion Lab we like to play with big Earth Observation data and use artificial intelligence research to have a positive impact on the society and the environment.
+		
+		Orion Lab is a research group that belongs to the [Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing](https://www.astro.noa.gr/en/) of the [National Observatory of Athens](https://www.noa.gr/en/).
   
   - block: collection
     content:
@@ -45,7 +47,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: banner.jpg
           filters:
             brightness: 1
           parallax: false

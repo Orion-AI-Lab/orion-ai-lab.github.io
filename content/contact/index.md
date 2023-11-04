@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-10-24
+date: 2023-11-04
 
 type: landing
 
@@ -9,24 +9,24 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        Feel free to contact us for any questions regarding our science.
+
+		We have open places for internships, Master theses, doctoral and postdoctoral research, please don’t hesitate to write us an email to introduce yourself!
+      email: ipapoutsis@noa.gr
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: School of Rural, Surveying and Geoinformatics Engineering, National Technical University of Athens
+        city: Zografou, Athens
+        postcode: '15773'
+        country: Greece
+        country_code: GR
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        latitude: '37.975310'
+        longitude: '23.780407'
+      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
+      #appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -37,13 +37,13 @@ sections:
       autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
+      #    # Enable CAPTCHA challenge to reduce spam?
+      #    captcha: false
     design:
       columns: '1'
 
@@ -56,7 +56,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: banner.jpg
           filters:
             brightness: 1
           parallax: false
