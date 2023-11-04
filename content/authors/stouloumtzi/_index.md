@@ -1,4 +1,13 @@
 ---
+# The following command determines whether or not the author
+# has his/her own page, and is listed on the /People/ page.
+_build:
+  render: always
+cascade:
+  _build:
+    render: never
+    list: always
+
 # Display name
 title: Souzana Touloumtzi
 
