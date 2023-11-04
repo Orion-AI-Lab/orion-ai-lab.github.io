@@ -13,11 +13,13 @@ design:
   css_style:
   css_class:
   background:
-    # Choose a color such as from https://html-color-codes.info
-    color: 'navy'
+    # Choose colors such as from https://html-color-codes.info
+    gradient_start: '#4bb4e3'
+    gradient_end: '#2b94c3'
+    # The gradient angle from 0-360 degrees
+    gradient_angle: 180
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
-  # Choose how many columns the section has. Valid values: 1 or 2.
 ---
 
 In Orion Lab we like to play with big Earth Observation data and use artificial intelligence research to have a positive impact on the society and the environment.
