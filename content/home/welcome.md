@@ -6,20 +6,28 @@
 widget: markdown # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: Orion Lab Research Group
+title: What we do
 design:
   columns: '1'
   # Add custom styles
   css_style:
   css_class:
   background:
-    # Choose colors such as from https://html-color-codes.info
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
-    # The gradient angle from 0-360 degrees
-    gradient_angle: 180
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
+    image:
+      # Name of image in `assets/media/`.
+      filename: orion-home-page-background-2.png
+      # Apply image filters?
+      filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+        brightness: 0.6
+      #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+      size: cover
+      # Image focal point. Options include `left`, `center` (default), or `right`.
+      position: center
+      # Use a fun parallax-like fixed background effect on desktop? true/false
+      parallax: true
+      # Text color (true=light, false=dark, or remove for the dynamic theme color).
+      text_color_light: true
 ---
 
 In Orion Lab we like to play with big Earth Observation data and use artificial intelligence research to have a positive impact on the society and the environment.
