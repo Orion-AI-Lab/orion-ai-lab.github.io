@@ -15,7 +15,7 @@ design:
   background:
     image:
       # Name of image in `assets/media/`.
-      filename: orion-home-page-background-2.png
+      filename: background.png
       # Apply image filters?
       filters:
         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
