@@ -12,7 +12,7 @@ sections:
       subtitle: Artificial Intelligence for Earth Observation 
       text: We like to play with big Earth Observation data and use artificial intelligence research to have a positive impact on the society and the environment. Orion Lab is a research group that belongs to the [Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing](https://www.astro.noa.gr/en/) of the [National Observatory of Athens](https://www.noa.gr/en/). 
       image: 
-        filename: icon.png
+        filename: logo_text.png
 
     design: 
       columns: '1'
