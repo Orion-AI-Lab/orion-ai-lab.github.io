@@ -13,9 +13,7 @@ sections:
       user_groups:
         - Principal Investigator
         - Postdoctoral
-        - Researchers
-        - Project Managers
-        - Administration
+        - Team
         - Visitors
         - Alumni
       sort_by: Params.last_name

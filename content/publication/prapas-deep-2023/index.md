@@ -54,7 +54,7 @@ abstract: Climate change is expected to aggravate wildfire activity through the 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags: [wildfires]
 
 # Display this page in a list of Featured pages?
 featured: false

@@ -52,7 +52,7 @@ abstract: Wildfire forecasting is of paramount importance for disaster risk redu
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags: [wildfires]
 
 # Display this page in a list of Featured pages?
 featured: false
