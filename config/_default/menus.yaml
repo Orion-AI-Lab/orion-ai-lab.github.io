@@ -18,7 +18,10 @@ main:
     weight: 40
   - name: Applications
     url: applications
-    weight: 41    
+    weight: 50
+  - name: Theses
+    url: theses
+    weight: 51    
   - name: Publications
     url: publication
     weight: 50

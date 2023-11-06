@@ -3,7 +3,9 @@ title: 'SeasFire: Earth System Deep Learning for Seasonal Fire Forecasting in Eu
 date: 2020-12-02
 draft: false
 links:
-- name: Project Website
+- icon_pack: fa
+  icon: globe # code, file-pdf
+  name: Project Website
   url: https://www.seasfire.hua.gr
 ---
 
