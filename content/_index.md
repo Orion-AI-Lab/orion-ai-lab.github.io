@@ -15,6 +15,10 @@ sections:
 
     design: 
       columns: '1'
+      background:
+        gradient_end: '#1976d2'
+        gradient_start: '#004ba0'
+        text_color_light: true
   - block: collection
     content:
       title: Latest Publications
@@ -63,5 +67,7 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+      # Choose an optional background color, gradient, image, or video
+
 ---
 

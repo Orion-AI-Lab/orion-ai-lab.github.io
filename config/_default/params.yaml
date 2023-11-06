@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: cyberpunk # 1950s, minimal, forest, earth, ocean
-  theme_night: cyberpunk # apogee, cyberpunk, minimal, dark, coffee
+  theme_day: minimal
+  theme_night: minimal
   font: native
   font_size: L
 
@@ -21,9 +21,9 @@ marketing:
     description: 'Website for the Orion Lab Research Group.'
     twitter: 'OrionLab_NOA'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-98PYT82GDP'
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: 'G-98PYT82GDP'
     microsoft_clarity: ''
   verification:
     google: ''

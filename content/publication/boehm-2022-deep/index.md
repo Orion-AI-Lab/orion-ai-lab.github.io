@@ -1,15 +1,20 @@
 ---
-title: Land Surface Movement Driven by Groundwater Dynamics
+title: Deep Learning for Rapid Landslide Detection using Synthetic Aperture Radar
+  (SAR) Datacubes
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- M. Elkamali
-- C. Loupasakis
-- I. Papouptsis
-- A. Abuelgasim
+- Vanessa Boehm
+- Wei Ji Leong
+- Ragini Bal Mahesh
+- Ioannis Prapas
+- Edoardo Nemni
+- Freddie Kalaitzis
+- Siddha Ganju
+- Raul Ramos-Pollan
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -18,18 +23,18 @@ author_notes: []
 date: '2022-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-06T10:26:25.752234Z'
+publishDate: '2023-11-06T10:26:25.824694Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- paper-conference
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*EAGE Middle East Geomechanics Workshop: Lessons Learned & New Frontiers*'
+publication: '*arXiv preprint arXiv:2211.02869*'
 publication_short: ''
 
-doi: 10.3997/2214-4609.2022614003
+doi: ''
 
 abstract: ''
 
@@ -69,9 +74,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-links:
-- name: URL
-  url: https://www.earthdoc.org/content/papers/10.3997/2214-4609.2022614003
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
