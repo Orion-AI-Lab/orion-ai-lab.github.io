@@ -1,5 +1,5 @@
 ---
-title: Visualizing spatiotemporal Earth system data
+title: 'The earth as a graph: Graph Neural Networks for Earth Observation'
 date: 2023-11-06
 show_date: false
 show_related: true

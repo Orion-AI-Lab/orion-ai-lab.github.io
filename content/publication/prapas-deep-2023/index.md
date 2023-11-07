@@ -54,7 +54,7 @@ abstract: Climate change is expected to aggravate wildfire activity through the 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [wildfires]
+tags: [wildfires, deep learning]
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -62,7 +62,7 @@ featured: false
 # Links
 url_pdf: ''
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://doi.org/10.5281/zenodo.8055879'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -86,7 +86,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ['seasfire']
 links:
 - name: URL
   url: http://arxiv.org/abs/2211.00534

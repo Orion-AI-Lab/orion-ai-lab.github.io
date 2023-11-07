@@ -29,7 +29,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the IEEE/CVF International Conference on Computer Vision*'
+publication: '*Proceedings of the IEEE/CVF International Conference on Computer Vision* (Best Paper Award)'
 publication_short: ''
 
 doi: ''
@@ -39,15 +39,15 @@ abstract: ''
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [wildfires]
+tags: [wildfires, deep learning, teleconnections, seasonal]
 
 # Display this page in a list of Featured pages?
 featured: false
 
 # Links
 url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_code: 'https://github.com/Orion-AI-Lab/televit'
+url_dataset: 'https://zenodo.org/records/8055879'
 url_poster: ''
 url_project: ''
 url_slides: ''

@@ -17,11 +17,11 @@ links:
   url: https://deepcube-h2020.eu/
 ---
 
+Deepcube - Explainable AI Pipelines for Big Copernicus Data
+
 - Role:       Coordinator 
 - Period:     2020-2023
 - Funded by:  H2020   
-
-Deepcube - Explainable AI Pipelines for Big Copernicus Data
 
 <!--more-->
 

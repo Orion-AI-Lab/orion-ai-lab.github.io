@@ -18,7 +18,7 @@ authors:
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
-author_notes: []
+author_notes: ['Equal Contribution','Equal Contribution','Equal Contribution','Equal Contribution']
 
 date: '2022-01-01'
 
@@ -47,9 +47,9 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_pdf: 'https://arxiv.org/pdf/2211.02869.pdf'
+url_code: 'https://github.com/iprapas/landslide-sar-unet'
+url_dataset: 'https://doi.org/10.5281/zenodo.7248056'
 url_poster: ''
 url_project: ''
 url_slides: ''

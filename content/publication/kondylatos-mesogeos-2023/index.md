@@ -50,15 +50,15 @@ abstract: 'We introduce Mesogeos, a large-scale multi-purpose dataset for wildfi
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [wildfires]
+tags: [wildfires, deep learning, dataset, datacube]
 
 # Display this page in a list of Featured pages?
 featured: false
 
 # Links
-url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_pdf: 'https://arxiv.org/pdf/2306.05144'
+url_code: 'https://github.com/orion-ai-lab/mesogeos'
+url_dataset: 'https://drive.google.com/drive/folders/1aRXQXVvw6hz0eYgtJDoixjPQO-_bRKz9'
 url_poster: ''
 url_project: ''
 url_slides: ''

@@ -17,7 +17,7 @@ authors:
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
-author_notes: []
+author_notes: ['Equal Contribution','Equal Contribution']
 
 date: '2021-11-04'
 
@@ -59,8 +59,8 @@ featured: false
 
 # Links
 url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_code: 'https://github.com/Orion-AI-Lab/wildfire_forecasting'
+url_dataset: 'https://zenodo.org/records/6475592'
 url_poster: ''
 url_project: ''
 url_slides: ''

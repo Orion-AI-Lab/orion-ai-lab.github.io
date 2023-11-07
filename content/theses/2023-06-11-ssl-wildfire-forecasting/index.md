@@ -1,5 +1,5 @@
 ---
-title: 'The earth as a graph: Graph Neural Networks for Earth Observation'
+title: Self-supervised learning on datacubes for wildfire forecasting
 date: 2023-11-06
 show_date: false
 show_related: true
