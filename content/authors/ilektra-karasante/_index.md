@@ -47,16 +47,16 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:test@example.org'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:ile.karasante@noa.gr'
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/GeorgeCushen
-#   - icon: google-scholar
-#     icon_pack: ai
-#     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=S-yNHi0AAAAJ&hl=en&oi=ao
 #   - icon: github
 #     icon_pack: fab
 #     link: https://github.com/gcushen
@@ -78,6 +78,6 @@ user_groups:
   - Team
 ---
 
-Ilektra holds a B.sc in Geology and Geoenvironment from National and Kapodistrian University of Athens (2018) and a M.sc in Space Science Technologies and Applications program of the National Observatory of Athens and the department of Informatics and Telecommunications of University of Peloponnese (2020).
+Ilektra holds a B.Sc in Geology and Geoenvironment from National and Kapodistrian University of Athens (2018) and a M.sc in Space Science Technologies and Applications program of the National Observatory of Athens and the department of Informatics and Telecommunications of University of Peloponnese (2020).
 
 Since 2021, she has worked on GNSS and tectonic displacements in the Institute of Geodynamics in National Observatory of Athens (GI-NOA). In April of 2022, joined the Orion lab team of the Institute of Astronomy, Astrophysics, Space Applications and Remote Sensing (IAASARS-NOA), as a data analyst focused on developing a datacube for seasonal fire forecasting.
