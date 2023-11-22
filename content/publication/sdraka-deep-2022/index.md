@@ -40,7 +40,7 @@ abstract: ''
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags: [super-resolution, downscaling, review, remote sensing]
 
 # Display this page in a list of Featured pages?
 featured: false

@@ -37,15 +37,15 @@ abstract: ''
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags: [crop classification, segmentation, remote sensing, dataset]
 
 # Display this page in a list of Featured pages?
 featured: false
 
 # Links
 url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_code: 'https://github.com/Orion-AI-Lab/S4A-Models'
+url_dataset: 'https://github.com/Orion-AI-Lab/S4A'
 url_poster: ''
 url_project: ''
 url_slides: ''
