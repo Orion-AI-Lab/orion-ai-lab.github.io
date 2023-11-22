@@ -58,6 +58,9 @@ Below you see the workflow you need to follow when you have added/edited files a
 # See changes that you did (Optional)
 git status
 
+# Get the latest changes in case someone else has committed something in the meantime
+git pull 
+
 # Stage changes to be committed 
 git add . 
 
@@ -66,9 +69,6 @@ git status
 
 # Commit changes 
 git commit -m "This is the commit message, e.g. Fix bug, Change profile, Add article"
-
-# Get the latest changes in case someone else has committed something in the meantime
-git pull 
 
 # Push changes to the GitHub repo
 git push
