@@ -8,7 +8,7 @@ title: Land Surface Movement Driven by Groundwater Dynamics
 authors:
 - M. Elkamali
 - C. Loupasakis
-- I. Papouptsis
+- I. Papoutsis
 - A. Abuelgasim
 
 # Author notes (such as 'Equal Contribution')
