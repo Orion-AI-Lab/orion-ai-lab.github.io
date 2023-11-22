@@ -8,7 +8,6 @@ The page is based on the [theme-research-block](https://github.com/HugoBlox/them
 2. Create a new conda environment with Python 3.11
 ```
 conda create --name myenv python=3.11
-source activate myenv
 ```
 3. Activate the environment
 ```
@@ -25,7 +24,8 @@ pip install academic
 ```
 ./hugo server
 ```
-Note!!! This must be run from the repo directory. 
+Note!!! This must be run from the repo directory.
+
 3. Open the browser from the ports tab. Sometimes you may need to restart the server (CTRL+C and re-run step 2) and hard refresh (CTRL+F5) to see your changes. 
 
 ## Adding a new publication
