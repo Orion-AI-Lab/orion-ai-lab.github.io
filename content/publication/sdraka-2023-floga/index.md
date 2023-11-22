@@ -40,7 +40,7 @@ abstract: ''
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags: [wildfires, deep learning, dataset, change detection, disaster monitoring]
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -48,7 +48,7 @@ featured: false
 # Links
 url_pdf: ''
 url_code: 'https://github.com/Orion-AI-Lab/FLOGA'
-url_dataset: ''
+url_dataset: 'https://github.com/Orion-AI-Lab/FLOGA'
 url_poster: ''
 url_project: ''
 url_slides: ''
