@@ -47,3 +47,29 @@ academic import content/publication/bibdir/my_bib.bib content/publication -v --c
 4. Edit the created index.md to add more info and additional links to pdf, code, etc.
 
 5. Add an image called `featured.(jpg|png)` to the created directory.
+
+6. Save your changes to the GitHub repo (see [git helper](/#git-helper)).
+
+## Git helper
+
+Below you see the workflow you need to follow when you have added/edited files and you want to update the GitHub repo.
+
+```
+# See changes that you did (Optional)
+git status
+
+# Stage changes to be committed 
+git add . 
+
+# Verify the staged files (Optional)
+git status
+
+# Commit changes 
+git commit -m "This is the commit message, e.g. Fix bug, Change profile, Add article"
+
+# Get the latest changes in case someone else has committed something in the meantime
+git pull 
+
+# Push changes to the GitHub repo
+git push
+```
