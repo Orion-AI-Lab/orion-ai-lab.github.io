@@ -1,5 +1,6 @@
 ---
-title: 'Deep learning for downscaling remote sensing images: Fusion and super-resolution'
+title: 'FLOGA: A machine learning ready dataset, a benchmark and a novel deep learning
+  model for burnt area mapping with Sentinel-2'
 
 # Authors
 # A YAML list of author names
@@ -7,22 +8,21 @@ title: 'Deep learning for downscaling remote sensing images: Fusion and super-re
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Maria Sdraka
-- Ioannis Papoutsis
-- Bill Psomas
-- Konstantinos Vlachos
-- Konstantinos Ioannidis
+- Alkinoos Dimakos
+- Alexandros Malounis
+- Zisoula Ntasiou
 - Konstantinos Karantzalos
-- Ilias Gialampoukidis
-- Stefanos Vrochidis
+- Dimitrios Michail
+- Ioannis Papoutsis
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2022-01-01'
+date: '2023-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-06T10:26:25.743860Z'
+publishDate: '2023-11-22T09:59:46.276676Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -30,7 +30,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: ''
+publication: '*arXiv preprint arXiv:2311.03339*'
 publication_short: ''
 
 doi: ''
@@ -40,15 +40,15 @@ abstract: ''
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [super-resolution, downscaling, review, remote sensing]
+tags: [wildfires, deep learning, dataset, change detection, disaster monitoring]
 
 # Display this page in a list of Featured pages?
 featured: false
 
 # Links
 url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_code: 'https://github.com/Orion-AI-Lab/FLOGA'
+url_dataset: 'https://github.com/Orion-AI-Lab/FLOGA'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -73,9 +73,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-links:
-- name: URL
-  url: https://ieeexplore.ieee.org/abstract/document/9786720/
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

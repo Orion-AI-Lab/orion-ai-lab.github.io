@@ -8,7 +8,6 @@ The page is based on the [theme-research-block](https://github.com/HugoBlox/them
 2. Create a new conda environment with Python 3.11
 ```
 conda create --name myenv python=3.11
-source activate myenv
 ```
 3. Activate the environment
 ```
@@ -25,7 +24,8 @@ pip install academic
 ```
 ./hugo server
 ```
-Note!!! This must be run from the repo directory. 
+Note!!! This must be run from the repo directory.
+
 3. Open the browser from the ports tab. Sometimes you may need to restart the server (CTRL+C and re-run step 2) and hard refresh (CTRL+F5) to see your changes. 
 
 ## Adding a new publication
@@ -58,6 +58,9 @@ Below you see the workflow you need to follow when you have added/edited files a
 # See changes that you did (Optional)
 git status
 
+# Get the latest changes in case someone else has committed something in the meantime
+git pull 
+
 # Stage changes to be committed 
 git add . 
 
@@ -66,9 +69,6 @@ git status
 
 # Commit changes 
 git commit -m "This is the commit message, e.g. Fix bug, Change profile, Add article"
-
-# Get the latest changes in case someone else has committed something in the meantime
-git pull 
 
 # Push changes to the GitHub repo
 git push
