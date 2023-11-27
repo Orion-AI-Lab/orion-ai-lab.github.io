@@ -17,6 +17,6 @@ author_notes: ['Equal Contribution', 'Equal Contribution']
 date: '2023-01-01'
 publishDate: '2023-11-27T15:58:12.211007Z'
 publication_types:
-- article-journal
+- preprint
 publication: '*arXiv preprint arXiv:2311.12056*'
 ---
