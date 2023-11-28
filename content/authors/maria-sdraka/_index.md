@@ -16,7 +16,7 @@ first_name: Maria
 last_name: Sdraka
 
 ## Is this the primary user of the site?
-#superuser: true
+superuser: true
 #
 # Role/position
 role: PhD Candidate
