@@ -53,8 +53,8 @@ social:
  - icon: envelope
    icon_pack: fas
    link: 'masdra@noa.gr'
- - icon: linked-in
-   icon_pack: fas
+ - icon: linkedin
+   icon_pack: fab
    link: 'https://www.linkedin.com/in/masdra/'
  - icon: google-scholar
    icon_pack: ai
