@@ -16,7 +16,7 @@ first_name: Maria
 last_name: Sdraka
 
 ## Is this the primary user of the site?
-#superuser: true
+superuser: true
 #
 # Role/position
 role: PhD Candidate
@@ -53,8 +53,8 @@ social:
  - icon: envelope
    icon_pack: fas
    link: 'masdra@noa.gr'
- - icon: linked-in
-   icon_pack: fas
+ - icon: linkedin
+   icon_pack: fab
    link: 'https://www.linkedin.com/in/masdra/'
  - icon: google-scholar
    icon_pack: ai

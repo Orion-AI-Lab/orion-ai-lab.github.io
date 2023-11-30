@@ -16,7 +16,7 @@ first_name: Souzana
 last_name: Touloumtzi
 
 ## Is this the primary user of the site?
-#superuser: true
+superuser: true
 #
 # Role/position
 role: Project Manager

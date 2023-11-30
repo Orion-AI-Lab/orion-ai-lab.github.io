@@ -51,8 +51,11 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: linked-in
-    icon_pack: fas
+  - icon: globe
+    icon_pack: fa
+    link: 'https://iprapas.github.io'
+  - icon: linkedin
+    icon_pack: fab
     link: 'https://www.linkedin.com/in/iprapas/'
   - icon: twitter
     icon_pack: fab
