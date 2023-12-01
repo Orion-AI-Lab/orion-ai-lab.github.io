@@ -59,4 +59,4 @@ image:
 ![qualitative](qualitative.png)
 <span style="font-size: 75%;">
 Qualitative evaluation of a transformer based model in Honduras and Malawi. Flood is marked in <span style="color: rgb(220,79,117);">purple</span>, permanent waters in <span style="color: #00B9F2;">cyan</span> and
-non-water areas in **black**.</span>
+non-water areas in <span style="color: black;">**black**</span>.</span>
