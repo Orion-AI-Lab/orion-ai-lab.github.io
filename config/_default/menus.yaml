@@ -4,30 +4,38 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Orion Lab
     url: #
     weight: 10
-  - name: Research
-    url: research
-    weight: 20
+  - name: Team
+    url: people
+    weight: 20        
+  # - name: Research
+  #   url: research
+  #   weight: 20
   - name: Projects
     url: projects
-    weight: 30          
-  - name: News
-    url: post
-    weight: 40
-  - name: Applications
-    url: applications
-    weight: 50
-  - name: Theses
-    url: theses
-    weight: 51    
+    weight: 30   
   - name: Publications
     url: publication
-    weight: 50
-  - name: People
-    url: people
-    weight: 60    
+    weight: 40    
+  - name: Applications
+    url: applications
+    weight: 50           
+  - name : Education
+    url: education
+    weight: 60  
+  - name: Courses
+    url: education/courses
+    weight: 1
+    parent: Education    
+  - name: Theses Proposals
+    url: education/theses
+    weight: 2
+    parent: Education
+  - name: News
+    url: post
+    weight: 70    
   - name: Contact
     url: contact
-    weight: 70
+    weight: 80
