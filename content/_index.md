@@ -10,7 +10,15 @@ sections:
     content:
       title: Orion Lab
       subtitle: Artificial Intelligence for Earth Observation 
-      text: We like to play with big Earth Observation data and use artificial intelligence research to have a positive impact on the society and the environment. Orion Lab is a research group that belongs to the [Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing](https://www.astro.noa.gr/en/) of the [National Observatory of Athens](https://www.noa.gr/en/). 
+      text: | 
+        We like to play with big Earth Observation data and use artificial intelligence research to have a positive impact on the society and the environment. Orion Lab is a research group that belongs to the [Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing](https://www.astro.noa.gr/en/) of the [National Observatory of Athens](https://www.noa.gr/en/). <br><br>
+
+
+      cta:
+        label: GitHub Page
+        url: https://github.com/orion-ai-lab
+        icon: github
+        icon_pack: fab
       image: 
         filename: logo_text.png
 
@@ -20,6 +28,61 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+
+  - block: slider
+    content:
+      slides:
+        - title: 👋 Welcome to the group
+          content: Take a look at what we're working on...
+          align: center
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: background.png
+              filters:
+                brightness: 0.7
+            position: right
+            color: '#666'
+        - title: Lunch & Learn ☕️
+          content: 'Share your knowledge with the group and explore exciting new topics together!'
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: background.png
+              filters:
+                brightness: 0.7
+            position: center
+            color: '#555'
+        - title: World-Class Semiconductor Lab
+          content: 'Just opened last month!'
+          align: right
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: welcome.jpg
+              filters:
+                brightness: 0.5
+            position: center
+            color: '#333'
+          link:
+            icon: graduation-cap
+            icon_pack: fas
+            text: Join Us
+            url: ../contact/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      # Make the slides full screen within the browser window?
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
+
   - block: collection
     content:
       title: Latest Publications
