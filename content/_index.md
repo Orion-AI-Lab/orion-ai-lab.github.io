@@ -20,14 +20,14 @@ sections:
         icon: github
         icon_pack: fab
       image: 
-        filename: logo_text.png
+        filename: logo_text_white.png
 
     design: 
       columns: '1'
       background:
         # gradient_end: '#1976d2'
         # gradient_start: '#004ba0'
-        # text_color_light: true
+        text_color_light: true
         image:
           # Name of image in `assets/media/`.
           filename: background.png
@@ -42,7 +42,7 @@ sections:
           # Use a fun parallax-like fixed background effect on desktop? true/false
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: true
+          # text_color_light: true
 
   # - block: slider
   #   content:
