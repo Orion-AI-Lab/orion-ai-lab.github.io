@@ -19,10 +19,10 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2023-01-01'
+date: '2023-11-06'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-22T09:59:46.276676Z'
+publishDate: '2023-11-06T09:59:46.276676Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -35,7 +35,7 @@ publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: "Over the last decade there has been an increasing frequency and intensity of wildfires across the globe, posing significant threats to human and animal lives, ecosystems, and socio-economic stability. Therefore urgent action is required to mitigate their devastating impact and safeguard Earth's natural resources. Robust Machine Learning methods combined with the abundance of high-resolution satellite imagery can provide accurate and timely mappings of the affected area in order to assess the scale of the event, identify the impacted assets and prioritize and allocate resources effectively for the proper restoration of the damaged region. In this work, we create and introduce a machine-learning ready dataset we name FLOGA (Forest wiLdfire Observations for the Greek Area). This dataset is unique as it comprises of satellite imagery acquired before and after a wildfire event, it contains information from Sentinel-2 and MODIS modalities with variable spatial and spectral resolution, and contains a large number of events where the corresponding burnt area ground truth has been annotated by domain experts. FLOGA covers the wider region of Greece, which is characterized by a Mediterranean landscape and climatic conditions. We use FLOGA to provide a thorough comparison of multiple Machine Learning and Deep Learning algorithms for the automatic extraction of burnt areas, approached as a change detection task. We also compare the results to those obtained using standard specialized spectral indices for burnt area mapping. Finally, we propose a novel Deep Learning model, namely BAM-CD. Our benchmark results demonstrate the efficacy of the proposed technique in the automatic extraction of burnt areas, outperforming all other methods in terms of accuracy and robustness."
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -74,5 +74,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
