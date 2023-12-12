@@ -29,7 +29,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Earth Observation, Deep Learning, Natural Hazard Monitoring, Computer Vision
 #
 interests:
   - Deep Learning
