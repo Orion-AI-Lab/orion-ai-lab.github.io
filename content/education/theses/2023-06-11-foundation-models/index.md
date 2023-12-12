@@ -7,9 +7,11 @@ profile: false
 tags: ['foundation models', 'earth observation', 'EO', 'climate']
 draft: false
 ---
-Supervisors: [Ioannis Prapas](/author/ioannis-prapas/), [Ioannis Papoutsis](/author/ioannis-papoutsis)
+**Supervisors**: [Ioannis Prapas](/author/ioannis-prapas/), [Ioannis Papoutsis](/author/ioannis-papoutsis)
 
-Recently we've witnessed the rise of foundation models [^1] for text (e.g. [chatGPT](https://openai.com/blog/chatgpt), [Llama](https://ai.meta.com/llama/)) and images (e.g. [Dalle](https://openai.com/dall-e-3), Stable Diffusion [^2]), even video (e.g. [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)).
+**Relevant skills**: Python, Deep Learning basics, Deep Learning library (pytorch, jax, tensorflow), Remote Sensing basics
+
+In recent years, we've witnessed the rise of foundation models [^1] for text (e.g. [chatGPT](https://openai.com/blog/chatgpt), [Llama](https://ai.meta.com/llama/)) and images (e.g. [Dalle](https://openai.com/dall-e-3), Stable Diffusion [^2]), even video (e.g. [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)).
 
 Foundation models are also being developed for other fields (e.g. Medical science [^3]), and particularly for Earth Observation[^4] [^4.5] and Climate Science[^5]. The goal of this thesis is to investigate the maturity of these models and evaluating them in real-world downstream applications, like burned area mapping[^6], flood detection[^7] [^8], wildfire forecasting[^9] [^10], volcanic unrest detection[^11] [^12] or similar applications with impact for social good. Beyond evaluation, this thesis is about devising ways to fine-tune these large models to work better for downstream tasks. 
 
