@@ -4,6 +4,7 @@ date: 2023-11-06
 show_date: false
 show_related: true
 profile: false
+draft: true
 tags: ['wildfires']
 ---
 
