@@ -9,7 +9,7 @@ tags: ['sar','super-resolution']
 
 The widespread availability of Satellite data from the Sentinel missions has significantly propelled research in the convergence  of Earth Observation and Machine Learning, leading to groundbreaking advancements in crucial applications like rapid flood mapping [1], burnt scar mapping [2], and land cover classification [3]. Many applications, however, would benefit from a finer spatial resolution than the one offered by the Sentinel missions. In this thesis, the student will engage with state-of-the-art super-resolution methods [4,5,6], attempting to enhance SAR data from the Sentinel-1 mission (~10m per pixel), providing meaningful high resolution SAR images (~1m per pixel). As a first step the student will create a dataset, aligning high-resolution SAR from commercial products[7] with freely available low-resolution Sentinel-1 data. The resulting super-resolution method will be meticulously evaluated both in terms of its ability to address unseen downstream tasks as well as the soundness of the resulting high-resolution SAR image.
 
-Supervisor: Nikolaos Ioannis Bountos
+Supervisor: [Nikolaos Ioannis Bountos](https://orion-ai-lab.github.io/author/nikolaos-ioannis-bountos/)
 
 contact: bountos@noa.gr , ipapoutsis@noa.gr
 
