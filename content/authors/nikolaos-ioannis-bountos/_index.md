@@ -81,7 +81,4 @@ user_groups:
   - Team
 ---
 #
-#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-#
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-#
+Nikos is a PhD candidate at the Orion Lab of the National Observatory of Athens & the Technical University of Athens. He holds a BSc in computer science from the Aristotle University of Thessaloniki and an MSc in Data Engineering and Analytics from the Technical University of Munich. His research interests lie in the conjuction of artificial intelligence and Earth observation, with a focus on applications with great societal impact. With a strong record of international collaboration, he has conducted research at various renowned labs around the world, such as the AI4EO Future Lab at the Technical University of Munich and Mila - Quebec AI Institute. He led project Pluto, a monitoring system for satellite-based volcanic unrest detection which was included in the UNESCO IRCAI Global TOP 100 list 2022-2023.
