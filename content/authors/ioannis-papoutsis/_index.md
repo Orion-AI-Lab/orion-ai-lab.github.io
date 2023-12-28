@@ -20,12 +20,14 @@ last_name: Papoutsis
 superuser: true
 
 # Role/position
-role: Head of Orion Lab | Associate Professor of Artificial Intelligence for Earth Observation
+role: Head of Orion Lab <br> Assistant Professor of Artificial Intelligence for Earth Observation @ NTUA <br> Adjunct Researcher @ NOA
 
 # Organizations/Affiliations
 organizations:
   - name: School of Rural, Surveying and Geoinformatics Engineering, National Technical University of Athens
     url: 'https://www.survey.ntua.gr/en/'
+  - name: Institute of Astronomy, Astrophysics, Space Applications & Remote Sensing, National Observatory of Athens
+    url: 'https://www.astro.noa.gr/en'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Earth Observation, Machine Learning, Natural Hazard Monitoring 
@@ -57,7 +59,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ipapoutsis@noa.gr'
+    link: 'mailto:ipapoutsis@mail.ntua.gr'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ioannis-papoutsis/	
@@ -70,9 +72,9 @@ social:
     link: https://github.com/orion-ai-lab
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ #- icon: cv
+ #  icon_pack: ai
+ #  link: media/cvs/ResumePapoutsis.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -86,8 +88,11 @@ user_groups:
   - Principal Investigator
 ---
 
-I am an electrical and computer engineer with a research focus on the field of Earth Observation and artificial intelligence through the processing of big volumes of satellite and geospatial data. I hold a PhD on the use of advanced satellite interferometry techniques. 
+I am an electrical and computer engineer with a research focus on Earth Observation and artificial intelligence (AI4EO) through the processing of big volumes of satellite and geospatial data. I lead OrionLab, a research group that has been established in the intersection of NTUA and NOA, my two affiliations.   
 
-I am interested in AI4EO impactful applications , with a focus on Climate Change, natural disasters monitoring and earth system sciences. My current research focuses on the use of artificial intelligence/deep learning for knowledge extraction. 
+I am interested in AI4EO impactful applications, with a focus on Climate Change, natural disasters monitoring, monitoring and forecasting, and earth system sciences.  
 
-I have participated to several research projects funded mainly from European Commission (H2020 and FP7), European Space Agency and Copernicus initiatives. Currently I am the coordinator of the H2020 project DeepCube and the ESA project SeasFire that focuses on AI pipelines for Copernicus data.  
+In the past I was involved in the Copernicus programme as the Operations Manager of the Greek node of European Space Agency Hubs that distribute Sentinel data, and 
+as the Copernicus Emergency Management Services Manager for Risk and Recovery. 
+
+I have participated to several research projects funded mainly from European Commission (H2020 and FP7), European Space Agency and Copernicus initiatives. Currently, I am the coordinator of the Horizon Europe project <a href="https://www.euspa.europa.eu/thinkingearth-copernicus-foundation-models-thinking-earth">ThinkingEarth</a> , the H2020 project <a href="https://deepcube-h2020.eu/">DeepCube</a> and the ESA project <a href="https://seasfire.hua.gr/">SeasFire</a>, all of which which focus on AI pipelines for big Copernicus data.  
