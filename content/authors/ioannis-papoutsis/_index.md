@@ -37,15 +37,18 @@ interests:
 
 education:
  courses:
-   - course: PhD in Artificial Intelligence
-     institution: Stanford University
-     year: 2012
-   - course: MEng in Artificial Intelligence
-     institution: Massachusetts Institute of Technology
-     year: 2009
-   - course: BSc in Artificial Intelligence
-     institution: Massachusetts Institute of Technology
-     year: 2008
+   - course: PhD in Remote Sensing
+     institution: National Technical University of Athens
+     year: 2014
+   - course: MBA in Telecommunications
+     institution: ALBA Graduate Business School
+     year: 2016
+   - course: MSc in Telecommunications
+     institution: University College London
+     year: 2003
+   - course: MEng in Electrical and Computer Engineering
+     institution: National Technical University of Athens
+     year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
