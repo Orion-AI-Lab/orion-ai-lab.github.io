@@ -90,9 +90,9 @@ user_groups:
 
 I am an electrical and computer engineer with a research focus on Earth Observation and artificial intelligence (AI4EO) through the processing of big volumes of satellite and geospatial data. I lead OrionLab, a research group that has been established in the intersection of NTUA and NOA, my two affiliations.   
 
-I am interested in AI4EO impactful applications, with a focus on Climate Change, natural disasters monitoring, monitoring and forecasting, and earth system sciences.  
+I am interested in AI4EO impactful applications, with a focus on Climate Change, natural disasters management, monitoring and forecasting, and earth system sciences.  
 
 In the past I was involved in the Copernicus programme as the Operations Manager of the Greek node of European Space Agency Hubs that distribute Sentinel data, and 
 as the Copernicus Emergency Management Services Manager for Risk and Recovery. 
 
-I have participated to several research projects funded mainly from European Commission (H2020 and FP7), European Space Agency and Copernicus initiatives. Currently, I am the coordinator of the Horizon Europe project <a href="https://www.euspa.europa.eu/thinkingearth-copernicus-foundation-models-thinking-earth">ThinkingEarth</a> , the H2020 project <a href="https://deepcube-h2020.eu/">DeepCube</a> and the ESA project <a href="https://seasfire.hua.gr/">SeasFire</a>, all of which which focus on AI pipelines for big Copernicus data.  
+I have participated to several research projects funded mainly from European Commission, European Space Agency and Copernicus initiatives. I am the coordinator of the Horizon Europe project <a href="https://www.euspa.europa.eu/thinkingearth-copernicus-foundation-models-thinking-earth">ThinkingEarth</a>, the H2020 project <a href="https://deepcube-h2020.eu/">DeepCube</a> and the ESA project <a href="https://seasfire.hua.gr/">SeasFire</a>, all of which which focus on AI pipelines for big Copernicus data.  
