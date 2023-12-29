@@ -19,8 +19,8 @@ sections:
         url: https://github.com/orion-ai-lab
         icon: github
         icon_pack: fab       
-      
-      cta:
+
+      cta_alt:
         label: Twitter
         url: https://twitter.com/OrionLab_NOA
         icon: twitter
@@ -107,7 +107,14 @@ sections:
   #     # Duration of transition between slides (in ms)
   #     interval: 2000
 
- 
+  - block: markdown
+    content:
+      title: Introduction
+      subtitle:
+      text: .**Who are we?** OrionLab is a research group established as a collaborative initiative involving both the <a href="https://www.noa.gr/en/">National Observatory of Athens</a> and the <a href="https://www.ntua.gr/en/">National Technical University of Athens</a>. Organically, OrionLab belongs to the <a href="https://www.survey.ntua.gr/en/departments/topo/topo-labs/rslab/rslab-pages">Remote Sensing Laboratory</a>. <br> In Orion Lab we like to play with big Earth Observation data and use artificial intelligence research to have a positive impact on the society and the environment. <br> **Our mission:** We are committed to conducting cutting-edge research with the highest ethical standards, aiming to advance our understanding of fundamental Earth system processes and addressing key scientific questions in environmental science and the effective management of natural disasters. <br> **Our vision:** We envision harnessing the power of artificial intelligence and Earth Observation to model and predict the impacts of climate change, fostering the development of more resilient societies. <br> **Our research focus:** Developing foundation models for Earth Observation, applying deep learning for spatio-temporal forecasting, creating and utilizing datacubes and machine-learning ready datasets, as well as advancing knowledge retrieval and information extraction techniques from big satellite data. Additionally, we explore text-image alignment for satellite image captioning.  
+    design:
+      columns: '1' 
+
   - block: collection
     content:
       title: Latest Publications
@@ -148,15 +155,15 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
-      # Choose an optional background color, gradient, image, or video
+#  - block: markdown
+#    content:
+#      title:
+#      subtitle:
+#      text: |
+#        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+#    design:
+#      columns: '1'
+#      # Choose an optional background color, gradient, image, or video
 
 ---
 
