@@ -10,7 +10,7 @@ sections:
       subtitle: 
       text: |-
 
-        With applications that can be used by operational units and the public, Orion Lab aims to showcase the value of AI for social good.
+        With applications that can be used by operational units and the public, OrionLab aims to showcase the value of AI for social good.
 
       filters:
         # Folders to display content from

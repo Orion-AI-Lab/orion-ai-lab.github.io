@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'Website for the Orion Lab Research Group.'
+    description: 'Website for the OrionLab Research Group.'
     twitter: 'OrionLab_NOA'
   analytics:
     google_analytics: 'G-98PYT82GDP'
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Orion Lab. This work is licensed under {license}'
+    notice: '© {year} OrionLab. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
