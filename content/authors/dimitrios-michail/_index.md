@@ -9,10 +9,10 @@ cascade:
     list: always
 
 # Display name
-title: Dimitris Michail
+title: Dimitrios Michail
 
 # Full Name (for SEO)
-first_name: Dimitris
+first_name: Dimitrios
 last_name: Michail
 
 # Is this the primary user of the site?

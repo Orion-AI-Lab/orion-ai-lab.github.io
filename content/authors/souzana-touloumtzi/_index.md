@@ -83,7 +83,4 @@ social:
 user_groups:
   - Core team
 ---
-#
-#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-#
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Souzana Touloumtzi studied Applied Physics at the School of Applied Mathematical and Physical Sciences of the National Technical University of Athens (NTUA) and afterwards completed an MSc in Automatic Control Systems and Robotics at the School of Mechanical Engineering of NTUA in 2016. She has been working as a project manager for European funded research and innovation programmes since 2018. She is currently a project manager and communication specialist at the National Observatory of Athens / Orion Lab.
