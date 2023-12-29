@@ -26,6 +26,12 @@ sections:
         icon: twitter
         icon_pack: fab  
       
+      cta_note:
+        label: Twitter
+        url: https://twitter.com/OrionLab_NOA
+        icon: twitter
+        icon_pack: fab  
+
       image: 
         filename: logo_text_white.png
 
