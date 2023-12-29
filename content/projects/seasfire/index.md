@@ -21,7 +21,7 @@ links:
 Earth System Deep Learning for Seasonal Fire Forecasting in Europe
 
 - Role:       Coordinator 
-- Period:     2022-2023
+- Period:     2022-2024
 - Funded by:  ESA
 
 <!--more-->
