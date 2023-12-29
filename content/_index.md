@@ -9,8 +9,8 @@ sections:
   - block: hero
     content:
       title: Orion Lab 
-      subtitle: Artificial Intelligence for Earth Observation 
-      text:  Artificial intelligence research group with a focus on applications with high societal impact.
+      subtitle: Artificial Intelligence and Earth Observation 
+      text:  Artificial Intelligence and Earth Observation for applications that matter
 
         
 
@@ -18,9 +18,18 @@ sections:
         label: GitHub Page
         url: https://github.com/orion-ai-lab
         icon: github
-        icon_pack: fab
+        icon_pack: fab       
+      
+      cta:
+        label: Twitter
+        url: https://twitter.com/OrionLab_NOA
+        icon: twitter
+        icon_pack: fab  
+      
       image: 
         filename: logo_text_white.png
+
+      
 
     design: 
       columns: '1'
@@ -98,6 +107,7 @@ sections:
   #     # Duration of transition between slides (in ms)
   #     interval: 2000
 
+ 
   - block: collection
     content:
       title: Latest Publications

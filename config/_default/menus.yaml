@@ -22,17 +22,17 @@ main:
   - name: Applications
     url: applications
     weight: 50           
-  - name : Education
-    url: education
-    weight: 60  
-  - name: Courses
-    url: education/courses
-    weight: 1
-    parent: Education    
-  - name: Theses Proposals
+  - name : Theses
     url: education/theses
-    weight: 2
-    parent: Education
+    weight: 60  
+ # - name: Courses
+ #   url: education/courses
+ #   weight: 1
+ #   parent: Education    
+ # - name: Theses Proposals
+ #   url: education/theses
+ #   weight: 2
+ #   parent: Education
   - name: News
     url: post
     weight: 70    
