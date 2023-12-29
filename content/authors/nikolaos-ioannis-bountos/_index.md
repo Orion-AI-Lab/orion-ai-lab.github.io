@@ -78,7 +78,7 @@ social:
 ## Organizational groups that you belong to (for People widget)
 ##   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team
+  - Core team
 ---
 #
 Nikos is a PhD candidate at the Orion Lab of the National Observatory of Athens & the Technical University of Athens. He holds a BSc in computer science from the Aristotle University of Thessaloniki and an MSc in Data Engineering and Analytics from the Technical University of Munich. His research interests lie in the conjuction of artificial intelligence and Earth observation, with a focus on applications with great societal impact. With a strong record of international collaboration, he has conducted research at various renowned labs around the world, such as the AI4EO Future Lab at the Technical University of Munich and Mila - Quebec AI Institute. He led project Pluto, a monitoring system for satellite-based volcanic unrest detection which was included in the UNESCO IRCAI Global TOP 100 list 2022-2023.

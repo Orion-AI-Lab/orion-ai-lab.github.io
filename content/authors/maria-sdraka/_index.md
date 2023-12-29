@@ -77,7 +77,7 @@ highlight_name: false
 ## Organizational groups that you belong to (for People widget)
 ##   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team
+  - Core team
 ---
 
 I have obtained a BSc and MEng in Electrical & Computer Engineering at the National Technical University of Athens, Greece. After my studies, I worked for 2 years as a junior researcher at the Artificial Intelligence and Learning Systems Laboratory (AILS) in the same department, where I was mostly focused on the application of Deep Learning techniques on medical imaging. Subsequently, I worked for 2 years at a major e-commerce company in Greece where I assisted in content automation and development of various features. 

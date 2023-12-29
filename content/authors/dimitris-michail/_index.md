@@ -35,32 +35,38 @@ interests:
   - Machine Learning
   - Algorithm Engineering
 
-#education:
-#  courses:
-#    - course: PhD in Artificial Intelligence
-#      institution: Stanford University
-#      year: 2012
-#    - course: MEng in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2009
-#    - course: BSc in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2008
+education:
+  courses:
+    - course: PhD in Computer Science
+      institution: Max-Planck-Institut für Informatik and University of Saarland
+      year: 2006
+    - course: MSc in Computer Science
+      institution: Max-Planck-Institut für Informatik 
+      year: 2003
+    - course: MEng in Electronics and Computer Engineering
+      institution: Technical University of Crete
+      year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  #- icon: envelope
-  #  icon_pack: fas
-  #  link: 'mailto:test@example.org'
+  - icon: globe
+    icon_pack: fa
+    link: 'https://d-michail.github.io/'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:michail@hua.gr'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
-  #- icon: google-scholar
-  #  icon_pack: ai
-  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=DD0NjLEAAAAJ&hl=en&oi=sra
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/dimitrios-michail	
   - icon: github
     icon_pack: fab
     link: https://github.com/d-michail
@@ -82,4 +88,8 @@ user_groups:
   - Adjunct
 ---
 
-Dimitris Michail is an Associate Professor in the Harokopio University of Athens with expertise in Graph Processing and Machine Learning on Graphs.
+I am an Associate Professor at the Dept. of Informatics & Telematics of Harokopio University of Athens working on algorithms related to graph and data mining. Before, I worked as a post-doctoral researcher at the INRIA research institute and the Max-Planck-Institut für Informatik.
+
+I hold a Ph.D. and an M.Sc. in Computer Science from the Max-Planck-Institut für Informatik and University of Saarland.
+
+I hold an engineering degree (B.Sc/B.Eng/M.Eng) from the Electrical & Computer Engineering department, Technical University of Crete, Chania, Greece.

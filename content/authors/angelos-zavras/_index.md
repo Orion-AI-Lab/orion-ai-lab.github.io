@@ -2,28 +2,28 @@
 # The following command determines whether or not the author
 # has his/her own page, and is listed on the /People/ page.
 _build:
-  render: never
+  render: always
 cascade:
   _build:
     render: never
     list: always
 
 # Display name
-title: Souzana Touloumtzi
+title: Angelos Zavras
 
 # Full Name (for SEO)
-first_name: Souzana 
-last_name: Touloumtzi
+first_name: Angelos
+last_name: Zavras
 
-## Is this the primary user of the site?
+# Is this the primary user of the site?
 superuser: true
-#
+
 # Role/position
-role: Project Manager
-#
+role: PhD Candidate
+
 ## Organizations/Affiliations
-#organizations:
-#  - name: Stanford University
+organizations:
+  - name: National Observatory of Athens <br> Harokopio University of Athens
 #    url: ''
 #
 ## Short bio (displayed in user profile at end of posts)
@@ -50,19 +50,19 @@ role: Project Manager
 ## For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 ##   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 ##   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:test@example.org'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/gcushen
+social:
+ - icon: envelope
+   icon_pack: fas
+   link: 'zavras@noa.gr'
+ #- icon: twitter
+ #  icon_pack: fab
+ #  link: https://twitter.com/NikosGiannisB
+ - icon: google-scholar
+   icon_pack: ai
+   link: https://scholar.google.com/citations?user=eBbPn2wAAAAJ&hl=en&oi=sra
+ - icon: github
+   icon_pack: fab
+   link: https://github.com/azavras
 ## Link to a PDF of your resume/CV from the About widget.
 ## To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 ## - icon: cv
@@ -81,6 +81,3 @@ user_groups:
   - Core team
 ---
 #
-#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-#
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

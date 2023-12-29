@@ -75,7 +75,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team
+  - Core team
 ---
 
 Ilektra holds a B.Sc in Geology and Geoenvironment from National and Kapodistrian University of Athens (2018) and a M.sc in Space Science Technologies and Applications program of the National Observatory of Athens and the department of Informatics and Telecommunications of University of Peloponnese (2020).

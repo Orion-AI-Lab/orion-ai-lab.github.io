@@ -81,7 +81,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team
+  - Core team
 ---
 
 I have done an M.Eng. in Electrical and Computer Engineering in the National Technical University of Athens, which focused in software engineering, networks, computer science and statistics. Then, I completed a 2-year Erasmus Mundus MSc in Big Data Management and Analytics, studying in four beautiful European cities (Athens, Brussels, Barcelona, Berlin). I also spent 2 years at the borders of France and Switzerland developing software applications at the European Center for Nuclear Research (CERN).
