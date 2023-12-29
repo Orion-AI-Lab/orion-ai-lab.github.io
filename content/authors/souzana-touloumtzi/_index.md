@@ -2,7 +2,7 @@
 # The following command determines whether or not the author
 # has his/her own page, and is listed on the /People/ page.
 _build:
-  render: always
+  render: never
 cascade:
   _build:
     render: never
