@@ -19,12 +19,12 @@ last_name: Michail
 superuser: true
 
 # Role/position
-role: Adjunct Researcher | Associate Professor 
+role: Associate Professor @ HUA <br>  Adjunct Researcher @ OrionLab 
 
 # Organizations/Affiliations
 organizations:
   - name: Harokopio University of Athens
-    url: ''
+    url: 'https://www.hua.gr/index.php/en/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Graph Algorithms, Graph Mining, Machine Learning, Algorithm Engineering.
@@ -79,7 +79,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Adjunct
 ---
 
 Dimitris Michail is an Associate Professor in the Harokopio University of Athens with expertise in Graph Processing and Machine Learning on Graphs.

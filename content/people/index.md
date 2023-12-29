@@ -13,8 +13,8 @@ sections:
       user_groups:
         - Principal Investigator
         - Postdoctoral
-        - Team
-        - Visitors
+        - Core team
+        - Adjunct
         - Alumni
       sort_by: Params.last_name
       sort_ascending: true
