@@ -14,6 +14,7 @@ sections:
         - Principal Investigator
         - Postdoctoral
         - Core team
+        - Collaborator
         - Adjunct
         - Alumni
       sort_by: Params.last_name

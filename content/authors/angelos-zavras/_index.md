@@ -23,8 +23,10 @@ role: PhD Candidate
 
 ## Organizations/Affiliations
 organizations:
-  - name: National Observatory of Athens <br> Harokopio University of Athens
-#    url: ''
+  - name: National Observatory of Athens
+    url: 'https://www.astro.noa.gr/en'
+  - name: Harokopio University of Athens
+    url: 'https://www.hua.gr/index.php/en/'
 #
 ## Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
