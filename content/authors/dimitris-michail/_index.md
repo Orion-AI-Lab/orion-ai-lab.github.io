@@ -85,7 +85,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Adjunct
+  - Adjunct researchers
 ---
 
 I am an Associate Professor at the Dept. of Informatics & Telematics of Harokopio University of Athens working on algorithms related to graph and data mining. Before, I worked as a post-doctoral researcher at the INRIA research institute and the Max-Planck-Institut für Informatik.

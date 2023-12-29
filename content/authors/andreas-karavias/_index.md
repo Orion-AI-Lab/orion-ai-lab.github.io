@@ -9,21 +9,21 @@ cascade:
     list: always
 
 # Display name
-title: Themistocles Herekakis
+title: Andreas Karavias
 
 # Full Name (for SEO)
-first_name: Themistocles
-last_name: Herekakis
+first_name: Andreas
+last_name: Karavias
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Geo-ICT developer
+role: Earth Observation & GIS specialist
 
 ## Organizations/Affiliations
 organizations:
-  - name: National Observatory of Athens 
+  - name: Centre for Research & Technology Hellas 
 #    url: ''
   #- name: National Observatory of Athens 
 #    url: ''
@@ -33,20 +33,19 @@ organizations:
 #
 interests:
   - Earth Observation
-  - Geo-ICT
-  - Databases
+  - Synthetic Aperture Radar
 #
 education:
   courses:
  #   - course: PhD in Computer Science
  #     institution: University of Cambridge
  #     year: ongoing
-    - course: MSc in Advanced Informatics Computing Systems
-      institution: University of Piraeus
-      year: 2010
-    - course: BSc. in Electronic Engineering
-      institution: Technological Educational Institute of Athens
-      year: 2003
+    - course: MSc in Geoinformatics
+      institution: Harokopio University of Athens
+      year: 2021
+    - course: BSc. in Geography
+      institution: Harokopio University of Athens
+      year: 2018
 #
 ## Social/Academic Networking
 ## For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -55,19 +54,19 @@ education:
 social:
  - icon: envelope
    icon_pack: fas
-   link: 'mailto:therekak@noa.gr'
+   link: 'mailto:karavias@certh.gr'
  #- icon: globe
  #  icon_pack: fa
  #  link: 'https://akanksha-ahuja.github.io/'
  - icon: linkedin
    icon_pack: fab
-   link: 'https://www.linkedin.com/in/themistocles-herekakis/'
+   link: 'https://www.linkedin.com/in/andreas-karavias-472283158/'
  #- icon: twitter
  # icon_pack: fab
  #  link: https://twitter.com/Akanksha_Ahuja9
  - icon: google-scholar
    icon_pack: ai
-   link: https://scholar.google.com/citations?user=useRRvIAAAAJ&hl=en&oi=sra
+   link: https://scholar.google.com/citations?user=f1jJ2FgAAAAJ&hl=en&oi=sra
  #- icon: github
  #  icon_pack: fab
  #  link: https://github.com/azavras
@@ -89,5 +88,4 @@ social:
 user_groups:
   - Collaborators
 ---
-I am a Senior Expert in operational system design, software application development and implementation, having an 18-year full time professional experience in design and operational implementation of remote sensing related information systems and scientific modelling software. 
-I have actively participated and coordinated the Software Development over numerous European Commission and European Space Agency Research Programmes.
+Karavias Andreas is a BSc geographer (2018) with an MSc in geoinformatics (2021) from the Harokopio University of Athens (HUA). He is a member of HUA earth observation team since 2017 with a number of contributions to emergency mapping. Through his academic studies, he has five scientific publications related to natural hazards and environmental observations (link in publications). He has worked as an earth observation specialist on the ESA Coastal Erosion project "Space for Shore" having as an object the multi-temporal mapping of coastlines using the SAR images (2020-2021). He is specialized in DinSAR applications (earthquakes, subsidence), in burned area mapping (using optical data), and has dealt with various applications through the use of SAR (synthetic aperture radar) and optical data. 

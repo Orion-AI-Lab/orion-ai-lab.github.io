@@ -81,7 +81,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Adjunct
+  - Adjunct researchers
 ---
 
 Dr. Panagiotis Kosmopoulos is an Associate Researcher at the Institute for Environmental Research and Sustainable Development of the National Observatory of Athens. He received his B.Sc. in Geology and M.Sc. in Environmental Physics from the National and Kapodistrian University of Athens and holds a Ph.D. in Solar Radiation and Energy Forecasting from the Aristotle University of Thessaloniki.

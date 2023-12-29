@@ -2,7 +2,7 @@
 # The following command determines whether or not the author
 # has his/her own page, and is listed on the /People/ page.
 _build:
-  render: never
+  render: always
 cascade:
   _build:
     render: never
@@ -22,26 +22,26 @@ superuser: true
 role: Project Manager
 #
 ## Organizations/Affiliations
-#organizations:
-#  - name: Stanford University
+organizations:
+  - name: National Observatory of Athens
 #    url: ''
 #
 ## Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #
 #interests:
-#  - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
+  - Artificial Intelligence
+  - Earth Observation
+  
 #
-#education:
-#  courses:
-#    - course: PhD in Artificial Intelligence
-#      institution: Stanford University
-#      year: 2012
-#    - course: MEng in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2009
+education:
+  courses:
+    - course: MSc in Robotics and Automation
+      institution: National Technical University of Athens
+      year: 2016
+    - course: MEng in Applied Mathematical & Physical Sciences
+      institution: National Technical University of Athens
+      year: 2012
 #    - course: BSc in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2008
@@ -50,13 +50,16 @@ role: Project Manager
 ## For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 ##   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 ##   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:test@example.org'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:stouloumtzi@noa.gr'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/stouloumtzi/'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/stouloumtzi
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

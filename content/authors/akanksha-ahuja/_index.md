@@ -55,7 +55,7 @@ education:
 social:
  - icon: envelope
    icon_pack: fas
-   link: 'akanksha.ahuja99@gmail.com'
+   link: 'mailto:akanksha.ahuja99@gmail.com'
  - icon: globe
    icon_pack: fa
    link: 'https://akanksha-ahuja.github.io/'
@@ -87,7 +87,7 @@ social:
 ## Organizational groups that you belong to (for People widget)
 ##   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Collaborator
+  - Collaborators
 ---
 I am currently a PhD researcher at University of Cambridge and have been collaborating with OrionLab in the context of the ESA project <a href="https://seasfire.hua.gr/">SeasFire</a>.  
 

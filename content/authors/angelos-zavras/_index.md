@@ -23,10 +23,10 @@ role: PhD Candidate
 
 ## Organizations/Affiliations
 organizations:
-  - name: National Observatory of Athens
-    url: 'https://www.astro.noa.gr/en'
-  - name: Harokopio University of Athens
-    url: 'https://www.hua.gr/index.php/en/'
+  - name: National Observatory of Athens, Harokopio University of Athens
+#    url: 'https://www.astro.noa.gr/en'
+#  - name: Harokopio University of Athens
+ #   url: 'https://www.hua.gr/index.php/en/'
 #
 ## Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -55,7 +55,7 @@ organizations:
 social:
  - icon: envelope
    icon_pack: fas
-   link: 'zavras@noa.gr'
+   link: 'mailto:zavras@noa.gr'
  #- icon: twitter
  #  icon_pack: fab
  #  link: https://twitter.com/NikosGiannisB
