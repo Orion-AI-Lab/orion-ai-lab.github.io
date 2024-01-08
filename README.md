@@ -4,7 +4,8 @@ The page is based on the [theme-research-block](https://github.com/HugoBlox/them
 
 ## Initial Setup
 
-1. Run a GitHub codespace [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Orion-AI-Lab/orion-ai-lab.github.io)
+1. Run a GitHub codespace [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Orion-AI-Lab/orion-ai-lab.github.io).
+
 2. Create a new conda environment with Python 3.11
 ```
 conda create --name myenv python=3.11
@@ -17,9 +18,14 @@ source activate myenv
 ```
 pip install academic
 ```
+
+**Important Note** After the initial setup, run the codespace using the green `<> Code` button at the top of the repo page. 
+ 
+![codespaces](static/uploads/codespaces.PNG) 
+
 ## Running the server locally
 
-1. Run a GitHub codespace. [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Orion-AI-Lab/orion-ai-lab.github.io)
+1. Run a GitHub codespace (green `<> Code` button)
 2. Run the server. Go to the terminal and hit the following:
 ```
 ./hugo server
