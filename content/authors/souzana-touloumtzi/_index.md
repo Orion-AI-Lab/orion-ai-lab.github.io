@@ -2,7 +2,7 @@
 # The following command determines whether or not the author
 # has his/her own page, and is listed on the /People/ page.
 _build:
-  render: never
+  render: always
 cascade:
   _build:
     render: never
@@ -29,7 +29,7 @@ organizations:
 ## Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #
-#interests:
+interests:
   - Artificial Intelligence
   - Earth Observation
   
