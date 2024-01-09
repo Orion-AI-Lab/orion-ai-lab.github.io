@@ -82,6 +82,6 @@ user_groups:
 
 I have obtained a BSc and MEng in Electrical & Computer Engineering at the National Technical University of Athens, Greece. After my studies, I worked for 2 years as a junior researcher at the Artificial Intelligence and Learning Systems Laboratory (AILS) in the same department, where I was mostly focused on the application of Deep Learning techniques on medical imaging. Subsequently, I worked for 2 years at a major e-commerce company in Greece where I assisted in content automation and development of various features. 
 
-Since 2020 I have been pursuing a PhD on Remote Sensing and Deep Learning at Harokopio University. I am also affiliated with the National Observatory of Athens and have been a member of Orion Lab since its foundation.
+Since 2021 I have been pursuing a PhD on Remote Sensing and Deep Learning at Harokopio University. I am also affiliated with the National Observatory of Athens and have been a member of Orion Lab since its foundation.
 
 I am interested in the development of novel Deep Learning approaches for Remote Sensing and Earth Observation. My main focus is natural disaster mapping and monitoring, as well as multimodal data fusion and change detection.
