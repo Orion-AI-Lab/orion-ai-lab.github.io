@@ -41,6 +41,8 @@ summary: ''
 
 tags: [wildfires, deep learning, teleconnections, seasonal]
 
+categories: ['Code']
+
 # Display this page in a list of Featured pages?
 featured: false
 

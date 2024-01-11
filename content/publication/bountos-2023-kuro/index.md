@@ -31,6 +31,9 @@ summary: ''
 
 tags: [floods, deep learning, computer vision, remote sensing, SAR, synthetic aperture radar]
 
+categories: ['Datasets']
+
+
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 date: '2023-11-18'

@@ -52,6 +52,7 @@ summary: ''
 
 tags: [wildfires, deep learning, dataset, datacube]
 
+
 # Display this page in a list of Featured pages?
 featured: false
 
@@ -64,6 +65,8 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+categories: ['Code', 'Datasets']
 
 # Custom links (uncomment lines below)
 # links:

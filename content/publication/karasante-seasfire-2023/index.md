@@ -54,6 +54,8 @@ summary: ''
 tags:
 - Computer Science - Computer Vision and Pattern Recognition
 
+categories: ['Datasets']
+
 # Display this page in a list of Featured pages?
 featured: false
 

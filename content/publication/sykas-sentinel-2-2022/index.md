@@ -39,6 +39,8 @@ summary: ''
 
 tags: [crop classification, segmentation, remote sensing, dataset]
 
+categories: ['Datasets', 'Code']
+
 # Display this page in a list of Featured pages?
 featured: false
 

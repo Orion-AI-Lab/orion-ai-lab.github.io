@@ -42,6 +42,8 @@ summary: ''
 
 tags: [wildfires, deep learning, dataset, change detection, disaster monitoring]
 
+categories: ['Datasets']
+
 # Display this page in a list of Featured pages?
 featured: false
 

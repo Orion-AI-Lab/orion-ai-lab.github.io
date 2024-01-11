@@ -85,6 +85,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+categories: ['Code']
+
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link

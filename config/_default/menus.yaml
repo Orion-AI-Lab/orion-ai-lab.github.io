@@ -21,10 +21,16 @@ main:
     weight: 40    
   - name: Applications
     url: applications
-    weight: 50           
+    weight: 50  
+  - name: Code
+    url: category/code
+    weight: 60            
+  - name: Datasets
+    url: category/datasets
+    weight: 61    
   - name : Theses
     url: education/theses
-    weight: 60  
+    weight: 70  
  # - name: Courses
  #   url: education/courses
  #   weight: 1
@@ -35,7 +41,7 @@ main:
  #   parent: Education
   - name: News
     url: post
-    weight: 70    
+    weight: 80    
   - name: Contact
     url: contact
-    weight: 80
+    weight: 90

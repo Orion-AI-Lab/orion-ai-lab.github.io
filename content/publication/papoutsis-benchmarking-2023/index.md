@@ -39,12 +39,14 @@ summary: ''
 
 tags: []
 
+categories: ['Code']
+
 # Display this page in a list of Featured pages?
 featured: false
 
 # Links
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/Orion-AI-Lab/EfficientBigEarthNet'
 url_dataset: ''
 url_poster: ''
 url_project: ''

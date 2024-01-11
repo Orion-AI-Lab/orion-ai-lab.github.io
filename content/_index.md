@@ -98,7 +98,7 @@ sections:
             url: ../contact/            
         - title: Our research focus 
           content: | 
-            ### We use Deep Learning Models and leverage large Earth Observation datasets to understand the Earth System.
+            ### We build Deep Learning models and large Earth Observation datasets to understand the Earth System.
           align: left
           background:
             image:

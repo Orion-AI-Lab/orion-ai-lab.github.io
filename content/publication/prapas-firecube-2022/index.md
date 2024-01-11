@@ -6,9 +6,9 @@ title: 'FireCube: A daily datacube for the modeling and analysis of wildfires in
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- I. Prapas
-- S. Kondylatos
-- I. Papoutsis
+- Ioannis Prapas
+- Spyros Kondylatos
+- Ioannis Papoutsis
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -36,6 +36,8 @@ abstract: ''
 summary: ''
 
 tags: []
+
+categories: ['Datasets']
 
 # Display this page in a list of Featured pages?
 featured: false
