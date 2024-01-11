@@ -56,6 +56,8 @@ academic import content/publication/bibdir/my_bib.bib content/publication -v --c
 
 6. Save your changes to the GitHub repo (see [git helper](/#git-helper)).
 
+> **Important Note**: If the publication **includes code and/or dataset**, add `categories: ['Code']` or `categories: ['Datasets']` or `categories: ['Code', 'Datasets']` accordingly so that the publication shows up in the [Code](https://orion-ai-lab.github.io/category/code) and/or [Datasets](https://orion-ai-lab.github.io/category/datasets) page. 
+
 ## Git helper
 
 Below you see the workflow you need to follow when you have added/edited files and you want to update the GitHub repo.
