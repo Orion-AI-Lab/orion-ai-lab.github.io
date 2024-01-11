@@ -24,11 +24,15 @@ sections:
        - 'Monday 10:00 to 13:00'
        - 'Wednesday 09:00 to 10:00'
       #appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+      contact_links:
+       - icon: twitter
+         icon_pack: fab
+         name: 'https://twitter.com/OrionLab_NOA'
+         link: 'https://twitter.com/OrionLab_NOA'
+       - icon: github
+         icon_pack: fab
+         name: 'https://github.com/Orion-AI-Lab'
+         link: 'https://github.com/Orion-AI-Lab'
     
       # Automatically link email and phone or display as text?
       autolink: true
