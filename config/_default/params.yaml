@@ -7,7 +7,6 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
   font: native
   font_size: L
 
@@ -37,20 +36,25 @@ header:
     align: r
     show_logo: true
     show_language: true
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
 # Site footer
 
 footer:
-  copyright:
-    notice: '© {year} OrionLab. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+  # notice: '© {year} OrionLab. This work is licensed under {license}'
+  # license:
+  #   enable: true
+  #   allow_derivatives: false
+  #   share_alike: true
+  #   allow_commercial: false
+  text: |
+    ![](all_logos.png)     
+    **OrionLab** is a research group belonging to the Remote Sensing Lab of the [National Technical University of Athens](https://www.ntua.gr/en) (NTUA) 
+    and the [National Observatory of Athens](https://www.noa.gr/en) (NOA). 
+
+
 
 # Localization
 
@@ -63,10 +67,11 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     extra_languages:
       - r
       - latex
+      - python
   math:
     enable: true
   privacy_pack:
