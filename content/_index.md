@@ -78,6 +78,11 @@ sections:
                 brightness: 0.7
             position: center
             color: '#666'
+          link:
+            # icon: users
+            # icon_pack: fa
+            text: Meet the team ✨
+            url: ../people/               
         - title: Our mission
           content: |
             ### We focus on cutting-edge research, utilizing AI and Earth Observation to model the Earth and promote resilient societies.
@@ -94,7 +99,7 @@ sections:
           link:
             # icon: graduation-cap
             # icon_pack: fas
-            text: Join Us
+            text: Join us 🚀 
             url: ../contact/            
         - title: Our research focus 
           content: | 
@@ -110,9 +115,9 @@ sections:
             position: center
             color: '#333'
           link:
-            icon: graduation-cap
-            icon_pack: fas
-            text: Our Publications
+            # icon: graduation-cap
+            # icon_pack: fas
+            text: Our publications 📜
             url: ../publication/    
 
     design:
