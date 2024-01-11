@@ -65,7 +65,7 @@ sections:
       slides:
         - title: Who are we?
           content: |         
-            ## In OrionLab, we like to play with big Earth Observation data and use Artificial Intelligence research to have a positive impact on the society and the environment. 
+            ### In OrionLab, we like to play with big Earth Observation data and use Artificial Intelligence research to have a positive impact on the society and the environment. 
 
             # [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/orionlab_noa) [{{< icon name="github" pack="fab" >}}](https://github.com/orion-ai-lab)
           align: left
@@ -80,7 +80,7 @@ sections:
             color: '#666'
         - title: Our mission
           content: |
-            ## We focus on cutting-edge research, utilizing AI and Earth Observation to model the Earth and promote resilient societies.
+            ### We focus on cutting-edge research, utilizing AI and Earth Observation to model the Earth and promote resilient societies.
           align: left
           background:
             image:
@@ -98,7 +98,7 @@ sections:
             url: ../contact/            
         - title: Our research focus 
           content: | 
-            ## We Deep Learning Models and leverage large Earth Observation datasets to understand the Earth System.
+            ### We use Deep Learning Models and leverage large Earth Observation datasets to understand the Earth System.
           align: left
           background:
             image:
