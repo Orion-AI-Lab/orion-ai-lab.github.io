@@ -64,13 +64,10 @@ sections:
     content:
       slides:
         - title: Who are we?
-          content: |
-            ## OrionLab is a research group established as a collaborative initiative involving both the *[National Observatory of Athens](https://www.noa.gr/en/)* and the *[National Technical University of Athens](https://www.ntua.gr/en)*. Organically, OrionLab belongs to the *[Remote Sensing Laboratory](https://www.survey.ntua.gr/en/departments/topo/topo-labs/rslab/rslab-pages)*. 
-            
+          content: |         
             ## In OrionLab, we like to play with big Earth Observation data and use Artificial Intelligence research to have a positive impact on the society and the environment. 
 
             # [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/orionlab_noa) [{{< icon name="github" pack="fab" >}}](https://github.com/orion-ai-lab)
-
           align: left
           background:
             image:
@@ -83,9 +80,7 @@ sections:
             color: '#666'
         - title: Our mission
           content: |
-            ## We are committed to conducting cutting-edge research with the highest ethical standards, aiming to advance our understanding of fundamental Earth system processes and addressing key scientific questions in environmental science and the effective management of natural disasters. 
-            
-            ## We envision harnessing the power of artificial intelligence and Earth Observation to model and predict the impacts of climate change, fostering the development of resilient societies. 
+            ## We focus on cutting-edge research, utilizing AI and Earth Observation to model the Earth and promote resilient societies.
           align: left
           background:
             image:
@@ -103,7 +98,7 @@ sections:
             url: ../contact/            
         - title: Our research focus 
           content: | 
-            ## Developing foundation models for Earth Observation, applying deep learning for spatio-temporal forecasting, creating and utilizing datacubes and machine-learning ready datasets, as well as advancing knowledge retrieval and information extraction techniques from big satellite data. Additionally, we explore text-image alignment for satellite image captioning.              
+            ## We Deep Learning Models and leverage large Earth Observation datasets to understand the Earth System.
           align: left
           background:
             image:
@@ -120,18 +115,13 @@ sections:
             text: Our Publications
             url: ../publication/    
 
-          cta:
-            label: GitHub Page
-            url: https://github.com/orion-ai-lab
-            icon: github
-            icon_pack: fab 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
       # Make the slides full screen within the browser window?
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: true
+      loop: false
       # Duration of transition between slides (in ms)
       interval: 4000
 
