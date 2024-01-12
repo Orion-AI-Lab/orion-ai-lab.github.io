@@ -73,7 +73,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: slider/background.png
+              filename: slider/7.png
               filters:
                 brightness: 0.7
             position: center
