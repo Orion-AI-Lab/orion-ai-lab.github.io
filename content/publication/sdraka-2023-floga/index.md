@@ -42,7 +42,7 @@ summary: ''
 
 tags: [wildfires, deep learning, dataset, change detection, disaster monitoring]
 
-categories: ['Datasets']
+categories: ['Code', 'Datasets']
 
 # Display this page in a list of Featured pages?
 featured: false
