@@ -42,7 +42,7 @@ education:
    - course: PhD in Remote Sensing
      institution: National Technical University of Athens
      year: 2014
-   - course: MBA in Telecommunications
+   - course: Master in Business Administration (MBA)
      institution: ALBA Graduate Business School
      year: 2016
    - course: MSc in Telecommunications

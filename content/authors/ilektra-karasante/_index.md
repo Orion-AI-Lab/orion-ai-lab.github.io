@@ -23,7 +23,7 @@ role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-  - name: Orion Lab
+  - name: OrionLab
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
