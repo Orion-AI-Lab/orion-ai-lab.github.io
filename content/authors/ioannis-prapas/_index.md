@@ -36,15 +36,15 @@ interests:
 
 education:
  courses:
-   - course: PhD in Remote sensing
+   - course: PhD in Deep Learning for Wildfire Forecasting
      institution: University of Valencia
-     year: ongoing
+     year: "2020-ongoing"
    - course: MSc in Big Data Management and Analytics
      institution: ULB (Brussels), UPC (Barcelona), TUB (Berlin)
-     year: 2009
+     year: "2018-2020"
    - course: MEng in Electrical and Computer Engineering
      institution: National Technical University of Athens
-     year: 2017
+     year: "2010-2017"
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
