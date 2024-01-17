@@ -17,6 +17,7 @@ sections:
         - Collaborators
         - Adjunct researchers
         - Alumni
+        - Graduate students
       sort_by: Params.last_name
       sort_ascending: true
     design:
