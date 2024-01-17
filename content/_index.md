@@ -63,7 +63,7 @@ sections:
   - block: slider
     content:
       slides:
-        - title: Who are we?
+        - title: Who we are
           content: |         
             ### In OrionLab, we like to play with big Earth Observation data and use Artificial Intelligence research to have a positive impact on the society and the environment. 
 
