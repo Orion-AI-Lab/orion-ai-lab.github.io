@@ -54,6 +54,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: globe
+    icon_pack: fa
+    link: 'http://solea.gr/'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:pkosmo@meteo.noa.gr'
@@ -84,8 +87,5 @@ user_groups:
   - Adjunct researchers
 ---
 
-Dr. Panagiotis Kosmopoulos is an Associate Researcher at the Institute for Environmental Research and Sustainable Development of the National Observatory of Athens. He received his B.Sc. in Geology and M.Sc. in Environmental Physics from the National and Kapodistrian University of Athens and holds a Ph.D. in Solar Radiation and Energy Forecasting from the Aristotle University of Thessaloniki.
+Dr. Panagiotis Kosmopoulos is a Researcher at the Institute for Environmental Research and Sustainable Development of the National Observatory of Athens in Greece. He received his BSc in Geology and MSc in Environmental Physics from the National and Kapodistrian University of Athens and holds a PhD in Solar Radiation and Energy Forecasting from the Aristotle University of Thessaloniki. He has a 20-year professional experience (>150 publications; h-index 23) through international projects and initiatives (e.g. ThinkingEarth, ClimSA, Cirocco, Eiffel, EuroGEO e-shape, ERA-PLANET Smurbs, COST InDust, GEO-Cradle Initiative, Siemens Aristotelis Solar, NSRF Kripis Thespia) followed by a total budget of >100 M €, from which >3.3 M € is related with the renewable energy sector. He exploits Earth observations, big data, artificial intelligence, advanced graphic creation platforms, short- and long-term forecasting approaches and high-performance computing for renewable energy technologies, solar spectral irradiance studies, urban planning, aerosol and cloud physics, smart grids, and all-scale (from big solar farms to rooftop photovoltaic installations) solar plants management and planning. For more information, visit the Solar Energy Applications ([Solea](http://solea.gr/)) webpage.
 
-He has a 15-year professional experience (>120 publications; h-index 21) through national and EU-funded projects (e.g. Eiffel, Excelsior, EuroGEO e-shape, ERA-PLANET Smurbs, COST InDust, GEO-Cradle Initiative, Siemens Aristotelis Solar, NSRF Kripis Thespia) followed by a total budget of >30M euro, from which >500K euro are related with the renewable energy sector. He exploits Earth observations, big data, fast radiative transfer models, short- and long-term forecasting approaches and high-performance computing for solar spectral irradiance studies (GHI, DNI, PAR, UVI), urban planning, aerosol and cloud physics, smart grids and all-scale (from big solar farms to rooftop photovoltaic installations) solar plants management.
-
-He is the developer of various operational algorithms including the SENSE (i.e. solar energy nowcasting system for Europe and North Africa), the nextSENSE (which includes computer vision aspects in order to short-term forecast the clouds motion and the impact on solar irradiation), the INSIOS (which is based on SENSE and is optimized for the Southern Asia’s conditions), the SOLEATHENS (which applies to the urban environment) and the UVIOS (i.e. ultraviolet index operating system).
