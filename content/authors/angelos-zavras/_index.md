@@ -38,7 +38,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Vision-Language Foundation Models for Remote Sensing
+    - course: PhD in Multimodal Foundation Models for Remote Sensing
       institution: Harokopio University of Athens
       year: 2022-present
     - course: MSc in Data Science 
