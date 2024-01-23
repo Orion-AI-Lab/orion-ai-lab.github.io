@@ -31,23 +31,23 @@ organizations:
 ## Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #
-#interests:
-#  - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
-#
-#education:
-#  courses:
-#    - course: PhD in Artificial Intelligence
-#      institution: Stanford University
-#      year: 2012
-#    - course: MEng in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2009
-#    - course: BSc in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2008
-#
+interests:
+  - Deep Learning
+  - Foundation Models
+  - Earth Observation
+
+education:
+  courses:
+    - course: PhD in Vision-Language Foundation Models for Remote Sensing
+      institution: Harokopio University of Athens
+      year: 2022-present
+    - course: MSc in Data Science 
+      institution: Institute of Informatics and Telecommunications, National Centre for Scientific Research Demokritos & Department of Informatics and Telecommunications, University of the Peloponnese
+      year: 2019-2022
+    - course: BSc in Informatics and Telematics
+      institution: Harokopio University of Athens
+      year: 2014-2019
+
 ## Social/Academic Networking
 ## For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 ##   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -55,7 +55,7 @@ organizations:
 social:
  - icon: envelope
    icon_pack: fas
-   link: 'mailto:zavras@noa.gr'
+   link: 'mailto:azavras@noa.gr'
  #- icon: twitter
  #  icon_pack: fab
  #  link: https://twitter.com/NikosGiannisB
@@ -83,3 +83,6 @@ user_groups:
   - Core team
 ---
 #
+Angelos is currently enrolled as a PhD candidate at the Harokopio University of Athens. He is also affiliated with the OrionLab research group, which is associated with the Remote Sensing Lab of the National Technical University of Athens (NTUA) and the National Observatory of Athens (NOA). He holds a BSc in Informatics and Telematics from the Harokopio University of Athens and a MSc from the joint master's program in Data Science from the Institute of Informatics & Telecommunications of the National Centre for Scientific Research Demokritos and the Department of Informatics & Telecommunications of the University of Peloponnese.
+
+In the past he was involved for several years in the European Space Agency's (ESA) Copernicus programme, initially as a DevOps Engineer and later as the Lead Copernicus Sentinels Data Access Operations Engineer of the Greek node of European Space Agency Hubs at the Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing (IAASARS) of the National Observatory of Athens.
