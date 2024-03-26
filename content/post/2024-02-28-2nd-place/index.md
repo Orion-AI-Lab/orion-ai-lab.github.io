@@ -2,7 +2,7 @@
 title: Plato system secures 2nd Prize at Innovation Competition!
 view: compact
 date: 2024-02-28
-
+profile: true
 
 ---
 
