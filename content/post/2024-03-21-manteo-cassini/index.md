@@ -2,7 +2,7 @@
 title: Team members get startup award to create manteo.ai, an oracle Earth Observation (video)
 view: compact
 date: 2024-03-21
-profile: true
+profile: false
 
 ---
 
