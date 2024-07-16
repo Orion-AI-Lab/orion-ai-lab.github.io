@@ -1,5 +1,5 @@
 ---
-date: 2019-12-01
+date: 2024-07-16
 show_date: false
 show_author: false
 # profile=True shows author
@@ -8,7 +8,7 @@ _build:
   # make render never if you don't want the page to open
   render: always
   list: always
-title: Fire Hazard Forecasting
+title: Fire Hazard Forecasting (FireWatchGreece)
 tags: 
   - wildfires
 show_related: true
@@ -36,3 +36,5 @@ This allows us to answer important questions, for example:
 - are there meaningful space/time patterns that increase fire risk? 
 - are there ways to know how sure the model is about a prediction? 
 - what is the impact of a change of a predictor on the fire risk?
+
+Visit [**FireWatchGreece**](https://orion-watch.space.noa.gr/FireWatchGreece/ui/pages/map) to explore daily forecasts and explainability plots! 
