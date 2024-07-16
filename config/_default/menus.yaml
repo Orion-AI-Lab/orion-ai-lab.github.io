@@ -31,9 +31,9 @@ main:
   - name : Theses
     url: education/theses
     weight: 70  
- # - name: Courses
- #   url: education/courses
- #   weight: 1
+  - name: History
+    url: landing
+    weight: 20
  #   parent: Education    
  # - name: Theses Proposals
  #   url: education/theses
