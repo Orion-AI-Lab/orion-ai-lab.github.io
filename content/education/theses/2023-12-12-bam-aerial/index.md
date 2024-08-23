@@ -11,4 +11,6 @@ The aim of this thesis is to leverage aerial data for the automatic mapping of a
 
 In order to use the LMA data in a mapping algorithm, it needs to be cleaned, processed and cropped into smaller patches. Subsequently, the student can choose among a number of Machine Learning or Deep Learning methods and train them on the data in order to obtain an accurate perimeter of the burn scar. The model(s) will also be evaluated using appropriate performance metrics.
 
+Prerequisites: Strong Python skills
+
 Supervisor: Maria Sdraka

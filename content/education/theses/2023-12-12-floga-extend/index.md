@@ -13,6 +13,8 @@ The aim of this thesis is to extend the FLOGA dataset with several other wildfir
 
 Subsequently, the BAM-CD model will be finetuned on the new data and its performance will be assessed.
 
+Prerequisites: Strong Python skills
+
 Supervisor: Maria Sdraka
 
 [1] https://arxiv.org/abs/2311.03339 <br>

@@ -15,6 +15,8 @@ The aim of this thesis is to extend the FLOGA dataset with SAR data. For each ev
 
 Subsequently, the BAM-CD model or any other model of the student’s choice will be trained on the new SAR data and its performance will be assessed.
 
+Prerequisites: Strong Python skills
+
 Supervisor: Maria Sdraka
 
 [1] https://arxiv.org/abs/2311.03339
