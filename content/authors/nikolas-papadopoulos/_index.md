@@ -19,7 +19,7 @@ last_name: Papadopoulos
 superuser: true
 
 # Role/position
-role: Machine Learning Researcher
+role: Phd Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -27,21 +27,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Deep Learning, Earth Observation and Foundation Models.
+bio: My research is focused on Deep Learning for Earth Observation, with an emphasis on extreme events.
 
 interests:
   - Deep Learning 
   - Earth Observation
-  - Foundation Models
+  - Extreme Event Modeling
 
 education:
  courses:
-   - course: Machine Learning Researcher
-     institution: National Technical University of Athens (NTUA) National Observatory of Athens (NOA)
+   - course: Phd Candidate
+     institution: National Technical University of Athens
      year: "2024-Present"
    - course: MSc in Data Science
      institution: NCSR Demokritos - University of Peloponnese
-     year: "2022-Present"
+     year: "2022-2024"
    - course: BSc in Physics
      institution: National Kapodistrian University of Athens (NKUA)
      year: "2017-2022"
@@ -57,9 +57,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/nickpadd
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:__insert__@noa.gr'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:npapadopoulos@mail.ntua.gr'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -80,6 +80,6 @@ user_groups:
 ---
 
 Graduated from the Physics department of the National and Kapodistrian University of Athens in 2022.
-Currently completing an MSc in Data Science provided by NCSR Demokritos - University of Peloponnese.
+Completed an MSc in Data Science provided by NCSR Demokritos - University of Peloponnese in 2024.
 
-As a Machine Learning Researcher at Orion Lab I am interested in using Deep Learning on Earth Observation data to contribute to research with high socio-environmental impact.
+As a Machine Learning Researcher at Orion Lab I am interested in using Deep Learning on Earth Observation data to contribute to research with high socio-environmental impact, with an emphasis on extreme events.
