@@ -76,6 +76,7 @@ git add .
 git status
 
 # Commit changes 
+# Note: if you don't have write access, you cannot push changes. A new fork will be created and this codespeace will be pointed there. Create a pull request of your changes and wait for admin's approval
 git commit -m "This is the commit message, e.g. Fix bug, Change profile, Add article"
 
 # Push changes to the GitHub repo
