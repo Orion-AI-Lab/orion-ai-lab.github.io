@@ -19,7 +19,7 @@ last_name: Apostolakis
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
