@@ -73,4 +73,4 @@ user_groups:
   - Core team
 ---
 
-Anastasios Papazafeiropoulos holds a Joint BSc and MEng in Electrical and Computer Engineering from the National Technical University of Athens, with a strong emphasis on software engineering, computer science, and bioengineering. He brings prior experience in applying machine learning techniques to neuroscience research. His work bridges artificial intelligence, graph theory, and Earth observation, leveraging advanced algorithms to create innovative solutions that tackle pressing societal challenges.
+Anastasios Papazafeiropoulos holds a joint BSc and MEng in Electrical and Computer Engineering from the National Technical University of Athens, with a strong emphasis on software engineering, computer science, and bioengineering. He brings prior experience in applying machine learning techniques to neuroscience research. His work bridges artificial intelligence, graph theory, and Earth observation, leveraging advanced algorithms to create innovative solutions that tackle pressing societal challenges.
