@@ -8,7 +8,7 @@ _build:
   # make render never if you don't want the page to open
   render: always
   list: always
-title: GREEK NATIONAL SATELLITE SPACE PROJECT: AXIS 3 SAFETY AND SECURITY SERVICE
+title: "GREEK NATIONAL SATELLITE SPACE PROJECT: AXIS 3 SAFETY AND SECURITY SERVICE"
 links:
 #- icon_pack: fa
  # icon: globe # code, file-pdf
