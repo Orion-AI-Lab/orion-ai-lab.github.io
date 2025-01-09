@@ -17,7 +17,7 @@ links:
 ---
 GREEK NATIONAL SATELLITE SPACE PROJECT: AXIS 3 SAFETY AND SECURITY SERVICE
 
-- Role:       Contractor
+- Role:       Partner
 - Period:     2024-2026
 - Funded by:  The European Commission and the Hellenic Republic   
 

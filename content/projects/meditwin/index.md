@@ -22,4 +22,6 @@ MeDiTwin - Mediterranean Digital Twin Network for Understanding Climate Extremes
 - Funded by:  Horizon Europe   
 
 <!--more-->
-MeDiTwin brings together AI experts to develop the Mediterranean Digital Twin network, and enhance the understanding and forecasting of climate extremes in the region.
+In MeDiTwin we envision a pioneering approach to understanding and predicting climate extremes in the Mediterranean. By developing the first Mediterranean Digital Twin (MDT), we aim to create a powerful tool that combines AI-driven Earth Observation (AI4EO) with Earth System Sciences to model and forecast climate events with unprecedented accuracy. This model will deepen our knowledge of climate dynamics, equipping communities and policymakers to respond to a rapidly changing climate.
+
+Our project fosters a multidisciplinary approach that merges innovative technology, Earth system science, and advanced AI tools, positioning NTUA as a leader in climate resilience research in the Mediterranean and Europe in general.
