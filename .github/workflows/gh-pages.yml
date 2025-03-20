@@ -50,18 +50,26 @@ jobs:
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-          
+
       - name: Remove symlinks and hard links
         run: |
           find ./public -type l -exec rm {} \;
+          find ./public -type f -links +1 -exec rm {} \;
 
-      - name: Clean up large files
+      - name: Clean up large files and cache
         run: |
           find ./public -type f -name '*.map' -delete
           find ./public -type f -size +100M -delete
+          rm -rf ./public/resources/_gen
+          rm -rf ./public/assets/_gen
+
+      - name: Check artifact size
+        run: |
+          du -sh ./public
+          find ./public -type f -exec du -h {} + | sort -rh | head -n 20
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v3
         with:
           name: github-pages
           path: ./public
@@ -77,4 +85,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v3
