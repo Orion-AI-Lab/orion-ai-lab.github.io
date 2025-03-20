@@ -1,5 +1,5 @@
 ---
-title: GAIA: A Global, Multi-modal, Multi-scale Vision-Language Dataset for Remote Sensing Image Analysis
+title: 'GAIA: A Global, Multi-modal, Multi-scale Vision-Language Dataset for Remote Sensing Image Analysis'
 
 # Authors
 # A YAML list of author names
