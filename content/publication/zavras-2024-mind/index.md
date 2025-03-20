@@ -1,5 +1,5 @@
 ---
-title: Mind the modality gap: Towards a remote sensing vision-language model via cross-modal alignment
+title: 'Mind the modality gap: Towards a remote sensing vision-language model via cross-modal alignment'
 
 # Authors
 # A YAML list of author names
