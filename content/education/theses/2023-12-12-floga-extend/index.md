@@ -13,9 +13,9 @@ The aim of this thesis is to extend the FLOGA dataset with several other wildfir
 
 Subsequently, the BAM-CD model will be finetuned on the new data and its performance will be assessed.
 
-Prerequisites: Strong Python skills
+**Prerequisites:** Strong Python skills, Machine Learning basic concepts, Deep Learning python framework (Pytorch, Tensorflow, etc)
 
-Supervisor: Maria Sdraka
+**Supervisor:** Maria Sdraka
 
 [1] https://arxiv.org/abs/2311.03339 <br>
 [2] https://edatos.consorciomadrono.es/dataset.xhtml?persistentId=doi:10.21950/BBQQU7  <br>

@@ -11,8 +11,8 @@ Orion Lab has assembled a novel benchmark dataset, namely FLOGA [1], for the map
 
 Since BAM-CD is only trained on Sentinel-2 data, it is able to produce high-resolution burn scar mappings but can only be used when clear images are provided both for the pre- and the post-fire status. The Sentinel-2 satellites have a temporal resolution of ~5 days, i.e. a new image of a specific region is captured every 5 days, rendering our method incapable of rapid, near real-time damage assessment. Therefore, the aim of this thesis is to train Machine Learning or Deep Learning models only on MODIS data, which have a temporal resolution of 1 day. Such a model will be able to provide a quicker evaluation of the burnt area and allow local authorities and forest scientists to formulate effective response and recovery strategies for the affected ecosystem and communities.
 
-Prerequisites: Strong Python skills
+**Prerequisites:** Strong Python skills, Machine Learning basic concepts, Deep Learning python framework (Pytorch, Tensorflow, etc)
 
-Supervisor: Maria Sdraka
+**Supervisor:** Maria Sdraka
 
 [1] https://arxiv.org/abs/2311.03339
