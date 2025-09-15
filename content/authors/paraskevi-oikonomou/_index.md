@@ -19,7 +19,7 @@ last_name: Oikonomou
 superuser: true
 
 # Role/position
-role: Research Associate
+role: Research Assistant
 
 ## Organizations/Affiliations
 organizations:
