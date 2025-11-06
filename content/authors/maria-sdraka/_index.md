@@ -52,7 +52,7 @@ education:
 social:
  - icon: envelope
    icon_pack: fas
-   link: 'masdra@noa.gr'
+   link: 'mara.sdraka@gmail.com'
  - icon: linkedin
    icon_pack: fab
    link: 'https://www.linkedin.com/in/masdra/'
@@ -85,3 +85,4 @@ I have obtained a BSc and MEng in Electrical & Computer Engineering at the Natio
 Since 2021 I have been pursuing a PhD on Remote Sensing and Deep Learning at Harokopio University. I am also affiliated with the National Observatory of Athens and have been a member of Orion Lab since its foundation.
 
 I am interested in the development of novel Deep Learning approaches for Remote Sensing and Earth Observation. My main focus is natural disaster mapping and monitoring, as well as multimodal data fusion and change detection.
+
