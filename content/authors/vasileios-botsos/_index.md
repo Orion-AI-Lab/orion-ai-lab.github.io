@@ -35,6 +35,9 @@ interests:
 
 education:
  courses:
+   - course: MSc in Data Science and Machine Learning
+     institution: National Technical University of Athens
+     year: "2025-Present"
    - course: BSc in Informatics and Telematics
      institution: Harokopio University of Athens
      year: "2018-2024"
@@ -47,6 +50,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/in/vasileios-botsos/'
+  - icon: github
+    icon_pack: fab
+    link:  'https://github.com/Vasileios-B'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:vassilisbot@gmail.com'
@@ -69,4 +75,4 @@ user_groups:
   - Core team
 ---
 
-Vasileios Botsos holds a B.Sc. in Informatics and Telematics from Harokopio University of Athens, with previous experience in spatiotemporal data classification focused on analyzing and classifying ship trajectories and trajectories in urban environments. Currently, as a Machine Learning Researcher at Orion Lab, Vasileios is working on onboard processing for fire, smoke, and cloud detection.
+Vasileios Botsos holds a BSc in Informatics and Telematics from  the Harokopio University of Athens and is currently pursuing a MSc in Data Science and Machine Learning at the National Technical University of Athens. He has previous experience in spatiotemporal data classification focused on analyzing and classifying ship trajectories and trajectories in urban environments. He is currently a Machine Learning Researcher at Orion Lab, focusing on inference at the edge for cloud segmentation.
