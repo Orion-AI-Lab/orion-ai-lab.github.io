@@ -46,7 +46,7 @@ categories: ['Code', 'Datasets']
 featured: false
 
 # Links
-url_pdf: 'https://arxiv.org/pdf/2502.09598'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11364541'
 url_code: 'https://github.com/Orion-AI-Lab/GAIA'
 url_dataset: 'https://huggingface.co/datasets/azavras/GAIA'
 url_poster: ''
