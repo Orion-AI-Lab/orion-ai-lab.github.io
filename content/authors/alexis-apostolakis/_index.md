@@ -58,6 +58,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:alex_apostolakis@mail.ntua.gr'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/alexis-apostolakis-3130055a/'  
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=A5eAeT4AAAAJ&hl=el&oi=ao
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -74,7 +80,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Collaborators
+  - Core team
 ---
 
 Alexis Apostolakis holds an MEng degree from the Electrical Engineer and Computer Engineer (ECE) faculty at the National Technical University of Athens (NTUA) and an MSc in Space Science, Technologies and Applications. He is currently pursuing a PhD in ECE at NTUA. He has long professional experience in software development and IT from different job positions in large companies in the field of Telecoms and Constructions and entrepreneurship. He is currently working as a data scientist engineer and research associate related to machine learning and remote sensing collaborating in research teams of the National Technical University of Athens and the National Observatory of Athens. His current research and publications focus on leveraging machine and deep learning algorithms and processing pipelines to extract valuable information from Earth Observation data, with applications in various fields.
