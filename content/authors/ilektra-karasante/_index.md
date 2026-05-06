@@ -27,12 +27,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Geologist | Geophysical Data Pipelines and Modeling
+bio: Earth Sciences | EU project management
 
 interests:
-  - Artificial Intelligence
-  - Geology
-  - Datacubes
+  - wildfires 
+  - Science Communication
+  - Earth Sciences 
+  - Data-cubes
 
 education:
   courses:
@@ -54,12 +55,13 @@ social:
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
+
+ - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/ilektra-karasante-4977b8226/
+ - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=S-yNHi0AAAAJ&hl=en&oi=ao
-#   - icon: github
-#     icon_pack: fab
-#     link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -78,6 +80,13 @@ user_groups:
   - Core team
 ---
 
-Ilektra holds a B.Sc in Geology and Geoenvironment from National and Kapodistrian University of Athens (2018) and a M.sc in Space Science Technologies and Applications program of the National Observatory of Athens and the department of Informatics and Telecommunications of University of Peloponnese (2020).
+Since 2022, Ilektra has been working as a Research Associate at the Orion Lab. Currently, her focus is on the coordination and management of EU-funded projects related to artificial intelligence, environmental monitoring, and natural hazards, with an emphasis on wildfires and their atmospheric and climate impacts. In the past, her work was around environmental dataset development, geospatial data analysis, and supporting wildfire risk assessment and forecasting workflows using Python-based tools, and tectonic displacements through GNSS. 
 
-Since 2021, she has worked on GNSS and tectonic displacements in the Institute of Geodynamics in National Observatory of Athens (GI-NOA). In April of 2022, joined the Orion lab team of the Institute of Astronomy, Astrophysics, Space Applications and Remote Sensing (IAASARS-NOA), as a data analyst focused on developing a datacube for seasonal fire forecasting.
+EU-Projects involvement
+
+[SeasFire](https://seasfire.hua.gr/) – Dataset development, project management, and causal modelling
+[DeepCube](https://deepcube-h2020.eu/) – Evaluation of wildfire danger forecasting services and stakeholder collaboration with the Hellenic Fire Service
+[MeDiTwin](https://meditwin-project.eu/) – Pr. Management and coordination
+[SIMMER](https://www.interregnextmed.eu/project-page/simmer/about/) – Pr. Management and Coordination, Stakeholder engagement and resilience planning
+[Greek National Satellite Space Project - Safety and Security](https://orionlab.space.noa.gr/projects/security/) – Development of wildfire risk service
+

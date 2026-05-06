@@ -5,7 +5,7 @@ date: 2026-01-28
 profile: false
 
 ---
-Junior Project Manager (Part-time) 
+Junior Project Manager (Part-time) - Thanks for applying! Position now filled 
 
 Remote Sensing Lab (RS Lab), National Technical University of Athens (NTUA), Zografou Campus (in person). The host organization The Remote Sensing Lab (RS Lab) of the National Technical University of Athens (NTUA) is a leading academic research group working at the intersection of Earth Observation, geospatial technologies, artificial intelligence, and environmental monitoring. RS Lab coordinates and participates in multiple European and international research projects, and contributing to cutting-edge applications in climate monitoring, land and ocean observation, environmental sustainability, and digital transformation. Our team brings together researchers, engineers, and project managers working on high-impact scientific and applied projects with strong societal relevance. We value collaboration, innovation, open science, and impactful communication of research results to both scientific and public audiences.
 
