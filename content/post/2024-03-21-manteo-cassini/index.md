@@ -14,6 +14,6 @@ We are proud for our team members that won the [EUSPA cassini challenge](https:/
 
 **[Manteo.ai](https://manteo.ai) wants to empower non-specialized users the ability to access information regarding satellite data, contributing to the democratization of knowledge about the status and evolution of our planet.**
 
-Watch the video of the team presenting [manteo.ai](https://manteo.ai) and [signup for early access](https://forms.gle/bwf2fLKXjdPEMTfv7)
+[Signup for early access](https://forms.gle/bwf2fLKXjdPEMTfv7)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gnhl_Mt171A?si=d1gtApfLz95zOotT&amp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
