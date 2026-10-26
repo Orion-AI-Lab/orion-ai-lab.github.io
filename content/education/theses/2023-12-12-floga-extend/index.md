@@ -15,7 +15,7 @@ Subsequently, the BAM-CD model will be finetuned on the new data and its perform
 
 **Prerequisites:** Strong Python skills, Machine Learning basic concepts, Deep Learning python framework (Pytorch, Tensorflow, etc)
 
-**Supervisor:** Maria Sdraka
+**Supervisor:** Ioannis Papoutsis
 
 [1] https://arxiv.org/abs/2311.03339 <br>
 [2] https://edatos.consorciomadrono.es/dataset.xhtml?persistentId=doi:10.21950/BBQQU7  <br>

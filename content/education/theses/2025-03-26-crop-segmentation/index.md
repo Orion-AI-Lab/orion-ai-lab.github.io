@@ -13,6 +13,6 @@ The aim of this thesis is to experiment with different Deep Learning models for 
 
 **Prerequisites:** Strong Python skills, Machine Learning basic concepts, Deep Learning python framework (Pytorch, Tensorflow, etc)
 
-**Supervisor:** Maria Sdraka
+**Supervisor:** Ioannis Papoutsis
 
 [1] https://ieeexplore.ieee.org/abstract/document/9749916

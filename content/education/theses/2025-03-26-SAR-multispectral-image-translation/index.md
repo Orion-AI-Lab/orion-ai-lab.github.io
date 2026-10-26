@@ -11,7 +11,7 @@ The goal of this thesis is to investigate Deep Learning techniques for the trans
 
 **Prerequisites:** Strong Python skills, Machine Learning basic concepts, Deep Learning python framework (Pytorch, Tensorflow, etc)
 
-**Supervisor:** Maria Sdraka
+**Supervisor:** Ioannis Papoutsis
 
 [1] https://mediatum.ub.tum.de/1436631  <br>
 [2] https://ieeexplore.ieee.org/abstract/document/8825802  <br>
