@@ -19,7 +19,7 @@ last_name: Diamanti
 superuser: true
 
 # Role/position
-role: ML Researcher
+role: PhD Candidate
 
 # Organizations/Affiliations
 #organizations:
@@ -70,4 +70,4 @@ user_groups:
   - Core team
 ---
 
-Christina Diamanti holds an Integrated Master’s degree in Electrical and Computer Engineering from the National Technical University of Athens (NTUA) with a focus on software engineering, computer systems, and computer networks. Her diploma thesis focused on custom load balancing in serverless distributed systems, combining systems design and cloud-native computing. She has previous experience as a DevOps Engineer in the private factor, working on telecom microservices and automation. She is currently a Junior ML Researcher at the Orion Lab. Her research interests lie at the intersection of Machine Learning, Explainable AI, and Earth Observation.
+Christina Diamanti is a PhD candidate at the National Technical University of Athens (NTUA) and a member of the Remote Sensing Lab. Her research focuses on the interpretability and reliability of foundation models for Earth Observation, with particular interests in explainable AI, trustworthy machine learning, and applications to environmental forecasting. She holds an Integrated Master’s degree in Electrical and Computer Engineering from NTUA and has a background in computer science, software engineering, cloud-native systems, and DevOps.
