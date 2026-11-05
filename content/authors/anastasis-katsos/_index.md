@@ -54,6 +54,9 @@ education:
 ##   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 ##   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+ - icon: globe
+   icon_pack: fa
+   link: 'https://akatsos.github.io'
  - icon: envelope
    icon_pack: fas
    link: 'mailto:anastasis.katsos@gmail.com'
@@ -87,6 +90,6 @@ user_groups:
   - Core team
 ---
 #
-Anastasis is currently enrolled as a PhD candidate at the National Technical University of Athens (NTUA). He is affiliated with the OrionLab research group, which is associated with the Remote Sensing Lab of the National Technical University of Athens and the National Observatory of Athens (NOA). He holds a BSc in Informatics and Telematics from the Harokopio University of Athens and an MSc in Geoinformatics from National Technical University of Athens.
+Anastasis is a PhD candidate at the National Technical University of Athens (NTUA) and a member of the Remote Sensing Lab. He holds a BSc in Informatics and Telematics from the Harokopio University of Athens and an MSc in Geoinformatics from National Technical University of Athens. His research interests are foundation models, multi-modal fusion and domain adaptation in remote sensing applications.
 
 In the past he was involved for several years in the European Space Agency's (ESA) Copernicus programme, initially as a DevOps Engineer and later as the Lead Copernicus Sentinels Data Access Operations Engineer of the Greek node of European Space Agency Hubs at the Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing (IAASARS) of the National Observatory of Athens.
